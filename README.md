@@ -6,15 +6,15 @@ Aplicación para generar un catálogo inmobiliario dinámico y personalizable. A
 
 ## Funcionalidades
 
-- ⚙️ **Selección de agencia:** personaliza el catálogo con el logo y color corporativo de la agencia.
-- ⚙️ **Idioma:** soporte para español (ES) e inglés (EN).
-- ⚙️ **Publicidad opcional:** incluye anuncios según convenga.
-- ⚙️ **Zonas:** configuración de áreas geográficas para filtrar propiedades.
-- ⚙️ **Modo FlippedBook online:**  
+-  **Selección de agencia:** personaliza el catálogo con el logo y color corporativo de la agencia.
+-  **Idioma:** soporte para español (ES) e inglés (EN).
+-  **Publicidad opcional:** incluye anuncios según convenga.
+-  **Zonas:** configuración de áreas geográficas para filtrar propiedades.
+-  **Modo FlippedBook online:**  
   Virtualización dinámica que carga 5 páginas simultáneamente según la posición del usuario, permitiendo catálogos de hasta **450 viviendas** sin pérdida de rendimiento.
-- ⚙️ **Versión PDF imprimible:**  
+-  **Versión PDF imprimible:**  
   Generación automática de revista digital usando **React-PDF**.
-- ⚙️ **Integración con API ZODDAK:**  
+-  **Integración con API ZODDAK:**  
   Consumo de datos mediante peticiones asíncronas autenticadas con token.
 
 ---
