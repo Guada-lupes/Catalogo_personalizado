@@ -1,0 +1,42 @@
+.color-selector-fieldset {
+  border: 1.5px solid #ccc;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.legend {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #444;
+  padding: 0 0.5rem;
+}
+
+.input-color-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.input-color-wrapper label {
+  font-size: 1rem;
+  color: #333;
+  min-width: 120px;
+}
+
+.input-color-wrapper input[type='color'] {
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.input-color-wrapper input[type='color']:hover {
+  transform: scale(1.05);
+}

@@ -1,0 +1,32 @@
+/* Contenedor horizontal */
+.selector-zona-horizontal {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75rem 0.75rem;
+  margin-top: 1rem;
+}
+
+/* Etiqueta estilizada sin caja */
+.selector-zona-horizontal label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  color: #333;
+  cursor: pointer;
+}
+
+/*estilos del loading*/
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* Checkbox  */
+.selector-zona-horizontal input[type='checkbox'] {
+  accent-color: #1bb394ff;
+  transform: scale(1.1);
+  cursor: pointer;
+}

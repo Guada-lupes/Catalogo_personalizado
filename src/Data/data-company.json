@@ -1,0 +1,77 @@
+[
+  {
+    "_id": {
+      "$oid": "6620f14613c5c6bb3e0beb44"
+    },
+    "name": "InmoPlus",
+    "cif": "B-12.345.678",
+    "email": "info@inmoplus.com",
+    "phone": "+34912345678",
+    "web": "http://www.inmoplus.com",
+    "address": {
+      "street": "Avenida del Parque 45",
+      "area": "",
+      "unit": "",
+      "city": "Madrid",
+      "region": "Madrid",
+      "country": "España",
+      "zipcode": "28001"
+    },
+    "business_name": "InmoPlus",
+    "image": "/75924fda78844299b24b38684d34f182-free.png",
+    "country_id": {
+      "$oid": "66e9085a6f888ef63305e332"
+    },
+    "fiscal_name": "InmoPlus Gestión Inmobiliaria S.L."
+  },
+  {
+    "_id": {
+      "$oid": "6620f14613c5c6bb3e0beb45"
+    },
+    "name": "Viviendas del Sur",
+    "cif": "B-87.654.321",
+    "email": "contacto@viviendasdelsur.com",
+    "phone": "+34956789012",
+    "web": "http://www.viviendasdelsur.com",
+    "address": {
+      "street": "Calle Real 77",
+      "area": "",
+      "unit": "",
+      "city": "Sevilla",
+      "region": "Andalucía",
+      "country": "España",
+      "zipcode": "41001"
+    },
+    "business_name": "Viviendas del Sur",
+    "image": "/53698ac30d274461a0d1f2d2f8c410c6-free.png",
+    "country_id": {
+      "$oid": "66e9085a6f888ef63305e332"
+    },
+    "fiscal_name": "Viviendas del Sur S.L."
+  },
+  {
+    "_id": {
+      "$oid": "6620f14613c5c6bb3e0beb46"
+    },
+    "name": "Costa Viva Inmobiliaria",
+    "cif": "B-22.334.556",
+    "email": "ventas@costaviva.com",
+    "phone": "+34965432100",
+    "web": "http://www.costaviva.com",
+    "address": {
+      "street": "Paseo Marítimo 10",
+      "area": "",
+      "unit": "",
+      "city": "Alicante",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "zipcode": "03001"
+    },
+    "business_name": "Costa Viva Inmobiliaria",
+    "image": "/2c8d97f3429b47df9bc1a5bf684c9922-free.png",
+    "country_id": {
+      "$oid": "66e9085a6f888ef63305e332"
+    },
+    "fiscal_name": "Costa Viva Servicios Inmobiliarios S.L."
+  }
+]

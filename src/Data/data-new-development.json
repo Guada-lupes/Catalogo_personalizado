@@ -1,0 +1,1957 @@
+[
+  {
+    "_id": "ObjectId_1",
+    "dev_id": 1,
+    "status_oid": "ObjectId_1",
+    "status_id": 1,
+    "status": {
+      "es": "Próximamente",
+      "en": "Coming soon"
+    },
+    "reference": "DEV001",
+    "title": {
+      "es": "Proyecto Residencial Málaga",
+      "en": "Malaga Residential Project"
+    },
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Málaga",
+    "area": "La Malagueta",
+    "postcode": "29016",
+    "developer": {
+      "name": "Desarrolladora Málaga S.A.",
+      "email": ["contacto@desarrolladora-malaga.com"],
+      "phone": ["+34 900 123 456"],
+      "web": ["https://www.desarrolladora-malaga.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Términos de pago:</p><p>Reserva: 6000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 80,
+        "max": 150
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 10,
+        "max": 40
+      }
+    },
+    "completion_date": {
+      "en": "2026 Q2",
+      "es": "2º trimestre 2026"
+    },
+    "start_date": {
+      "en": "2025 Q3",
+      "es": "3º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 250000,
+      "max": 450000
+    },
+    "beds": {
+      "min": 2,
+      "max": 4
+    },
+    "baths": {
+      "min": 2,
+      "max": 3
+    },
+    "map": {
+      "lat": "36.460115",
+      "lgt": "-5.083112"
+    },
+    "descriptions": {
+      "es": "Nuevo desarrollo de modernos apartamentos y áticos, rodeados de zonas verdes, gimnasio, club social y piscinas. Ideal para vivienda habitual o vacacional.",
+      "en": "New development of modern apartments and penthouses surrounded by green areas, gym, social club, and swimming pools. Perfect for a permanent or holiday home."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1161036960/es/foto/zona-residencial-con-edificios-de-apartamentos-en-la-ciudad.jpg?s=612x612&w=0&k=20&c=605if6vfaWAfpN3Ed19rYNo4purm70InH02p0zzy76s=",
+        "pic_lg": "https://media.istockphoto.com/id/1161036960/es/foto/zona-residencial-con-edificios-de-apartamentos-en-la-ciudad.jpg?s=612x612&w=0&k=20&c=605if6vfaWAfpN3Ed19rYNo4purm70InH02p0zzy76s=",
+        "pic_md": "https://media.istockphoto.com/id/1161036960/es/foto/zona-residencial-con-edificios-de-apartamentos-en-la-ciudad.jpg?s=612x612&w=0&k=20&c=605if6vfaWAfpN3Ed19rYNo4purm70InH02p0zzy76s=",
+        "pic_sm": "https://media.istockphoto.com/id/1161036960/es/foto/zona-residencial-con-edificios-de-apartamentos-en-la-ciudad.jpg?s=612x612&w=0&k=20&c=605if6vfaWAfpN3Ed19rYNo4purm70InH02p0zzy76s="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1406475148/es/foto/interior-de-negocios-con-escritorio-y-ordenador-zona-de-relax-y-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=S0kNnUjnNqnaZmxHouYOY95YR2A9oZfeiGUYsFo_k28=",
+        "pic_lg": "https://media.istockphoto.com/id/1406475148/es/foto/interior-de-negocios-con-escritorio-y-ordenador-zona-de-relax-y-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=S0kNnUjnNqnaZmxHouYOY95YR2A9oZfeiGUYsFo_k28=",
+        "pic_md": "https://media.istockphoto.com/id/1406475148/es/foto/interior-de-negocios-con-escritorio-y-ordenador-zona-de-relax-y-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=S0kNnUjnNqnaZmxHouYOY95YR2A9oZfeiGUYsFo_k28=",
+        "pic_sm": "https://media.istockphoto.com/id/1406475148/es/foto/interior-de-negocios-con-escritorio-y-ordenador-zona-de-relax-y-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=S0kNnUjnNqnaZmxHouYOY95YR2A9oZfeiGUYsFo_k28="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1166260745/es/foto/marco-cuadrado-zona-de-asientos-en-una-cubierta-de-casa-con-vistas-a-las-casas-de-carretera.jpg?s=612x612&w=0&k=20&c=VOwSSx2A-gLUTLxak1hQJvvaEiQ3C9KSViLBAtSXxL4=",
+        "pic_lg": "https://media.istockphoto.com/id/1166260745/es/foto/marco-cuadrado-zona-de-asientos-en-una-cubierta-de-casa-con-vistas-a-las-casas-de-carretera.jpg?s=612x612&w=0&k=20&c=VOwSSx2A-gLUTLxak1hQJvvaEiQ3C9KSViLBAtSXxL4=",
+        "pic_md": "https://media.istockphoto.com/id/1166260745/es/foto/marco-cuadrado-zona-de-asientos-en-una-cubierta-de-casa-con-vistas-a-las-casas-de-carretera.jpg?s=612x612&w=0&k=20&c=VOwSSx2A-gLUTLxak1hQJvvaEiQ3C9KSViLBAtSXxL4=",
+        "pic_sm": "https://media.istockphoto.com/id/1166260745/es/foto/marco-cuadrado-zona-de-asientos-en-una-cubierta-de-casa-con-vistas-a-las-casas-de-carretera.jpg?s=612x612&w=0&k=20&c=VOwSSx2A-gLUTLxak1hQJvvaEiQ3C9KSViLBAtSXxL4="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1084656062/photo/interior-of-a-hotel-bathroom.jpg?s=612x612&w=0&k=20&c=rZxxHZ_QxV4SZtNwi1izI1jKLckdS9Uz0LZc_M41_OE=",
+        "pic_lg": "https://media.istockphoto.com/id/1084656062/photo/interior-of-a-hotel-bathroom.jpg?s=612x612&w=0&k=20&c=rZxxHZ_QxV4SZtNwi1izI1jKLckdS9Uz0LZc_M41_OE=",
+        "pic_md": "https://media.istockphoto.com/id/1084656062/photo/interior-of-a-hotel-bathroom.jpg?s=612x612&w=0&k=20&c=rZxxHZ_QxV4SZtNwi1izI1jKLckdS9Uz0LZc_M41_OE=",
+        "pic_sm": "https://media.istockphoto.com/id/1084656062/photo/interior-of-a-hotel-bathroom.jpg?s=612x612&w=0&k=20&c=rZxxHZ_QxV4SZtNwi1izI1jKLckdS9Uz0LZc_M41_OE="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-5.083112, 36.460115]
+    }
+  },
+  {
+    "_id": "ObjectId_2",
+    "dev_id": 2,
+    "status_oid": "ObjectId_2",
+    "status_id": 2,
+    "status": {
+      "es": "Sobre plano",
+      "en": "Off-plan"
+    },
+    "reference": "DEV002",
+
+    "title": {
+      "es": "Residencial Sevilla Centro",
+      "en": "Residential Sevilla Centro"
+    },
+    "type": "Villas",
+
+    "town": "Sevilla",
+    "area": "Centro Histórico",
+    "postcode": "41001",
+    "developer": {
+      "name": "Inmobiliaria Sevilla",
+      "email": ["contacto@inmobiliariasevilla.com"],
+      "phone": ["+34 900 654 321"],
+      "web": ["https://www.inmobiliariasevilla.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Términos de pago:</p><p>Reserva: 7000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 150,
+        "max": 250
+      },
+      "plot_area": {
+        "min": 500,
+        "max": 1000
+      },
+      "covered_terrace": {
+        "min": 30,
+        "max": 60
+      }
+    },
+    "completion_date": {
+      "en": "2027 Q1",
+      "es": "1º trimestre 2027"
+    },
+    "start_date": {
+      "en": "2025 Q4",
+      "es": "4º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 500000,
+      "max": 800000
+    },
+    "beds": {
+      "min": 3,
+      "max": 5
+    },
+    "baths": {
+      "min": 3,
+      "max": 5
+    },
+    "map": {
+      "lat": "37.3886",
+      "lgt": "-5.9823"
+    },
+    "descriptions": {
+      "es": "Villas de lujo en pleno centro de Sevilla, a pocos minutos de la Giralda.",
+      "en": "Luxury villas in the heart of Seville, just minutes from the Giralda."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/936639468/es/foto/moderna-casa-unifamiliar-con-patio.jpg?s=612x612&w=0&k=20&c=GBsXFcI08pNk-N1o3kgQ2BSFis6TOfhlEhVDscJQotw=",
+        "pic_lg": "https://media.istockphoto.com/id/936639468/es/foto/moderna-casa-unifamiliar-con-patio.jpg?s=612x612&w=0&k=20&c=GBsXFcI08pNk-N1o3kgQ2BSFis6TOfhlEhVDscJQotw=",
+        "pic_md": "https://media.istockphoto.com/id/936639468/es/foto/moderna-casa-unifamiliar-con-patio.jpg?s=612x612&w=0&k=20&c=GBsXFcI08pNk-N1o3kgQ2BSFis6TOfhlEhVDscJQotw=",
+        "pic_sm": "https://media.istockphoto.com/id/936639468/es/foto/moderna-casa-unifamiliar-con-patio.jpg?s=612x612&w=0&k=20&c=GBsXFcI08pNk-N1o3kgQ2BSFis6TOfhlEhVDscJQotw="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1400230253/es/foto/dise%C3%B1o-interior-de-la-sala-de-estar-de-estilo-japon%C3%A9s-moderno-ideas-de-apartamentos-blancos.jpg?s=612x612&w=0&k=20&c=scyDDynUfPdGNazOxOxXAqTgyDzlkg0GiAKUroWW86Q=",
+        "pic_lg": "https://media.istockphoto.com/id/1400230253/es/foto/dise%C3%B1o-interior-de-la-sala-de-estar-de-estilo-japon%C3%A9s-moderno-ideas-de-apartamentos-blancos.jpg?s=612x612&w=0&k=20&c=scyDDynUfPdGNazOxOxXAqTgyDzlkg0GiAKUroWW86Q=",
+        "pic_md": "https://media.istockphoto.com/id/1400230253/es/foto/dise%C3%B1o-interior-de-la-sala-de-estar-de-estilo-japon%C3%A9s-moderno-ideas-de-apartamentos-blancos.jpg?s=612x612&w=0&k=20&c=scyDDynUfPdGNazOxOxXAqTgyDzlkg0GiAKUroWW86Q=",
+        "pic_sm": "https://media.istockphoto.com/id/1400230253/es/foto/dise%C3%B1o-interior-de-la-sala-de-estar-de-estilo-japon%C3%A9s-moderno-ideas-de-apartamentos-blancos.jpg?s=612x612&w=0&k=20&c=scyDDynUfPdGNazOxOxXAqTgyDzlkg0GiAKUroWW86Q="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/939866152/es/foto/pasos-de-madera-patio.jpg?s=612x612&w=0&k=20&c=gviqoYDoAuPUF1y8JM5BYvJ89zlaHBKRdnfzQ4JUplE=",
+        "pic_lg": "https://media.istockphoto.com/id/939866152/es/foto/pasos-de-madera-patio.jpg?s=612x612&w=0&k=20&c=gviqoYDoAuPUF1y8JM5BYvJ89zlaHBKRdnfzQ4JUplE=",
+        "pic_md": "https://media.istockphoto.com/id/939866152/es/foto/pasos-de-madera-patio.jpg?s=612x612&w=0&k=20&c=gviqoYDoAuPUF1y8JM5BYvJ89zlaHBKRdnfzQ4JUplE=",
+        "pic_sm": "https://media.istockphoto.com/id/939866152/es/foto/pasos-de-madera-patio.jpg?s=612x612&w=0&k=20&c=gviqoYDoAuPUF1y8JM5BYvJ89zlaHBKRdnfzQ4JUplE="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1273548104/photo/master-bathroom-with-freestanding-tub-and-large-all-glass-shower.jpg?s=612x612&w=0&k=20&c=2VHlEpECkdF-ghlP73oYAkR50EFWg5RB8loYp_8PRIg=",
+        "pic_lg": "https://media.istockphoto.com/id/1273548104/photo/master-bathroom-with-freestanding-tub-and-large-all-glass-shower.jpg?s=612x612&w=0&k=20&c=2VHlEpECkdF-ghlP73oYAkR50EFWg5RB8loYp_8PRIg=",
+        "pic_md": "https://media.istockphoto.com/id/1273548104/photo/master-bathroom-with-freestanding-tub-and-large-all-glass-shower.jpg?s=612x612&w=0&k=20&c=2VHlEpECkdF-ghlP73oYAkR50EFWg5RB8loYp_8PRIg=",
+        "pic_sm": "https://media.istockphoto.com/id/1273548104/photo/master-bathroom-with-freestanding-tub-and-large-all-glass-shower.jpg?s=612x612&w=0&k=20&c=2VHlEpECkdF-ghlP73oYAkR50EFWg5RB8loYp_8PRIg="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-5.9823, 37.3886]
+    }
+  },
+  {
+    "_id": "ObjectId_3",
+    "dev_id": 3,
+    "status_oid": "ObjectId_3",
+    "status_id": 3,
+    "status": {
+      "es": "Con licencia",
+      "en": "With license"
+    },
+    "reference": "DEV003",
+
+    "title": {
+      "es": "Residencial Granada Playa",
+      "en": "Residential Granada Beach"
+    },
+
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Granada",
+    "area": "Almuñécar",
+    "postcode": "18690",
+    "developer": {
+      "name": "Desarrolladora Granada",
+      "email": ["contacto@desarrolladoragranada.com"],
+      "phone": ["+34 900 234 567"],
+      "web": ["https://www.desarrolladoragranada.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Términos de pago:</p><p>Reserva: 5000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 70,
+        "max": 120
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 10,
+        "max": 30
+      }
+    },
+    "completion_date": {
+      "en": "2026 Q3",
+      "es": "3º trimestre 2026"
+    },
+    "start_date": {
+      "en": "2025 Q2",
+      "es": "2º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 220000,
+      "max": 350000
+    },
+    "beds": {
+      "min": 1,
+      "max": 3
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "36.7357",
+      "lgt": "-3.5831"
+    },
+    "descriptions": {
+      "es": "Apartamentos modernos en la playa de Almuñécar, ideales para vacaciones.",
+      "en": "Modern apartments on the beach in Almuñécar, perfect for vacation."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1434029016/es/foto/balcones-en-un-rascacielos-moderno.jpg?s=612x612&w=0&k=20&c=daF6dwVzvnYtLx3XBDNZUMKyPuKq7UaoQVt-y9U5vxs=",
+        "pic_lg": "https://media.istockphoto.com/id/1434029016/es/foto/balcones-en-un-rascacielos-moderno.jpg?s=612x612&w=0&k=20&c=daF6dwVzvnYtLx3XBDNZUMKyPuKq7UaoQVt-y9U5vxs=",
+        "pic_md": "https://media.istockphoto.com/id/1434029016/es/foto/balcones-en-un-rascacielos-moderno.jpg?s=612x612&w=0&k=20&c=daF6dwVzvnYtLx3XBDNZUMKyPuKq7UaoQVt-y9U5vxs=",
+        "pic_sm": "https://media.istockphoto.com/id/1434029016/es/foto/balcones-en-un-rascacielos-moderno.jpg?s=612x612&w=0&k=20&c=daF6dwVzvnYtLx3XBDNZUMKyPuKq7UaoQVt-y9U5vxs="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/2183004891/es/foto/sala-de-estar-como-parte-de-un-%C3%A1tico-tipo-loft-visualizaci%C3%B3n-3d.jpg?s=612x612&w=0&k=20&c=d3MqOp6eGUPxqumsKuWErBMB0qToqon3jFptd5M5gec=",
+        "pic_lg": "https://media.istockphoto.com/id/2183004891/es/foto/sala-de-estar-como-parte-de-un-%C3%A1tico-tipo-loft-visualizaci%C3%B3n-3d.jpg?s=612x612&w=0&k=20&c=d3MqOp6eGUPxqumsKuWErBMB0qToqon3jFptd5M5gec=",
+        "pic_md": "https://media.istockphoto.com/id/2183004891/es/foto/sala-de-estar-como-parte-de-un-%C3%A1tico-tipo-loft-visualizaci%C3%B3n-3d.jpg?s=612x612&w=0&k=20&c=d3MqOp6eGUPxqumsKuWErBMB0qToqon3jFptd5M5gec=",
+        "pic_sm": "https://media.istockphoto.com/id/2183004891/es/foto/sala-de-estar-como-parte-de-un-%C3%A1tico-tipo-loft-visualizaci%C3%B3n-3d.jpg?s=612x612&w=0&k=20&c=d3MqOp6eGUPxqumsKuWErBMB0qToqon3jFptd5M5gec="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1282358937/es/foto/escritorio-para-estudiar-en-habitaci%C3%B3n-con-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=cI3y-3q_CmlQlJXFSCu__c64kRzBIhBcD6LOUNmN28Y=",
+        "pic_lg": "https://media.istockphoto.com/id/1282358937/es/foto/escritorio-para-estudiar-en-habitaci%C3%B3n-con-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=cI3y-3q_CmlQlJXFSCu__c64kRzBIhBcD6LOUNmN28Y=",
+        "pic_md": "https://media.istockphoto.com/id/1282358937/es/foto/escritorio-para-estudiar-en-habitaci%C3%B3n-con-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=cI3y-3q_CmlQlJXFSCu__c64kRzBIhBcD6LOUNmN28Y=",
+        "pic_sm": "https://media.istockphoto.com/id/1282358937/es/foto/escritorio-para-estudiar-en-habitaci%C3%B3n-con-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=cI3y-3q_CmlQlJXFSCu__c64kRzBIhBcD6LOUNmN28Y="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/639229206/es/foto/3d-renderizado-zona-de-ducha-m%C3%ADnima-en-el-ba%C3%B1o-de-madera.jpg?s=612x612&w=0&k=20&c=RKOA_O7CVPOIy46M5oTyn3d-ztD4GYjdY8hwJoOzf_M=",
+        "pic_lg": "https://media.istockphoto.com/id/639229206/es/foto/3d-renderizado-zona-de-ducha-m%C3%ADnima-en-el-ba%C3%B1o-de-madera.jpg?s=612x612&w=0&k=20&c=RKOA_O7CVPOIy46M5oTyn3d-ztD4GYjdY8hwJoOzf_M=",
+        "pic_md": "https://media.istockphoto.com/id/639229206/es/foto/3d-renderizado-zona-de-ducha-m%C3%ADnima-en-el-ba%C3%B1o-de-madera.jpg?s=612x612&w=0&k=20&c=RKOA_O7CVPOIy46M5oTyn3d-ztD4GYjdY8hwJoOzf_M=",
+        "pic_sm": "https://media.istockphoto.com/id/639229206/es/foto/3d-renderizado-zona-de-ducha-m%C3%ADnima-en-el-ba%C3%B1o-de-madera.jpg?s=612x612&w=0&k=20&c=RKOA_O7CVPOIy46M5oTyn3d-ztD4GYjdY8hwJoOzf_M="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-3.5831, 36.7357]
+    }
+  },
+  {
+    "_id": "ObjectId_4",
+    "dev_id": 4,
+    "status_oid": "ObjectId_4",
+    "status_id": 4,
+    "status": {
+      "es": "Finalizado",
+      "en": "Finished"
+    },
+    "reference": "DEV004",
+
+    "title": {
+      "es": "Apartamento Torre del Mar",
+      "en": "Torre del Mar Apartment"
+    },
+
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Málaga",
+    "area": "Torre del Mar",
+    "postcode": "29740",
+    "developer": {
+      "name": "Inmobiliaria Costa del Sol",
+      "email": ["info@costadelsol.com"],
+      "phone": ["+34 951 222 333"],
+      "web": ["https://www.costadelsol.com/apartamento"],
+      "comm": "3%",
+      "notes": "<p>Reserva: 4000€</p><p>Contrato privado: 25% (menos la reserva)</p><p>Entrega: 75% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 65,
+        "max": 110
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 5,
+        "max": 20
+      }
+    },
+    "completion_date": {
+      "en": "2025 Q1",
+      "es": "1º trimestre 2025"
+    },
+    "start_date": {
+      "en": "2023 Q2",
+      "es": "2º trimestre 2023"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 180000,
+      "max": 280000
+    },
+    "beds": {
+      "min": 1,
+      "max": 2
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "36.7412",
+      "lgt": "-4.1033"
+    },
+    "descriptions": {
+      "es": "Apartamentos en primera línea de playa, con vistas espectaculares al mar.",
+      "en": "Beachfront apartments with spectacular sea views."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1289102513/es/foto/cielos-en-miami.jpg?s=612x612&w=0&k=20&c=OyozGCZV8VIif19nWtU8ylLlVInwgHpILbxfhSx508w=",
+        "pic_lg": "https://media.istockphoto.com/id/1289102513/es/foto/cielos-en-miami.jpg?s=612x612&w=0&k=20&c=OyozGCZV8VIif19nWtU8ylLlVInwgHpILbxfhSx508w=",
+        "pic_md": "https://media.istockphoto.com/id/1289102513/es/foto/cielos-en-miami.jpg?s=612x612&w=0&k=20&c=OyozGCZV8VIif19nWtU8ylLlVInwgHpILbxfhSx508w=",
+        "pic_sm": "https://media.istockphoto.com/id/1289102513/es/foto/cielos-en-miami.jpg?s=612x612&w=0&k=20&c=OyozGCZV8VIif19nWtU8ylLlVInwgHpILbxfhSx508w="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1781182393/es/foto/dise%C3%B1o-interior-de-sala-de-estar-moderna-hermoso-apartamento-renderizado-3d.jpg?s=612x612&w=0&k=20&c=AO_ftiH-fDO0DZLZyqQETob9AV82iN-rvkiTKN3UaKw=",
+        "pic_lg": "https://media.istockphoto.com/id/1781182393/es/foto/dise%C3%B1o-interior-de-sala-de-estar-moderna-hermoso-apartamento-renderizado-3d.jpg?s=612x612&w=0&k=20&c=AO_ftiH-fDO0DZLZyqQETob9AV82iN-rvkiTKN3UaKw=",
+        "pic_md": "https://media.istockphoto.com/id/1781182393/es/foto/dise%C3%B1o-interior-de-sala-de-estar-moderna-hermoso-apartamento-renderizado-3d.jpg?s=612x612&w=0&k=20&c=AO_ftiH-fDO0DZLZyqQETob9AV82iN-rvkiTKN3UaKw=",
+        "pic_sm": "https://media.istockphoto.com/id/1781182393/es/foto/dise%C3%B1o-interior-de-sala-de-estar-moderna-hermoso-apartamento-renderizado-3d.jpg?s=612x612&w=0&k=20&c=AO_ftiH-fDO0DZLZyqQETob9AV82iN-rvkiTKN3UaKw="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/2195198362/es/foto/una-cocina-moderna-con-gabinetes-elegantes-encimeras-de-m%C3%A1rmol-e-iluminaci%C3%B3n-contempor%C3%A1nea-que.jpg?s=612x612&w=0&k=20&c=CTybBCEluZYCiXq7DL3_432uPpuTZ3THoJ4CVQ4nCL4=",
+        "pic_lg": "https://media.istockphoto.com/id/2195198362/es/foto/una-cocina-moderna-con-gabinetes-elegantes-encimeras-de-m%C3%A1rmol-e-iluminaci%C3%B3n-contempor%C3%A1nea-que.jpg?s=612x612&w=0&k=20&c=CTybBCEluZYCiXq7DL3_432uPpuTZ3THoJ4CVQ4nCL4=",
+        "pic_md": "https://media.istockphoto.com/id/2195198362/es/foto/una-cocina-moderna-con-gabinetes-elegantes-encimeras-de-m%C3%A1rmol-e-iluminaci%C3%B3n-contempor%C3%A1nea-que.jpg?s=612x612&w=0&k=20&c=CTybBCEluZYCiXq7DL3_432uPpuTZ3THoJ4CVQ4nCL4=",
+        "pic_sm": "https://media.istockphoto.com/id/2195198362/es/foto/una-cocina-moderna-con-gabinetes-elegantes-encimeras-de-m%C3%A1rmol-e-iluminaci%C3%B3n-contempor%C3%A1nea-que.jpg?s=612x612&w=0&k=20&c=CTybBCEluZYCiXq7DL3_432uPpuTZ3THoJ4CVQ4nCL4="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1357455881/es/foto/vista-de-esquina-en-el-interior-del-ba%C3%B1o-con-ba%C3%B1era-ducha-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=Kz54SmhHQj4OdcAtUym5ILgYnM37c63kpQa5r2D7iXc=",
+        "pic_lg": "https://media.istockphoto.com/id/1357455881/es/foto/vista-de-esquina-en-el-interior-del-ba%C3%B1o-con-ba%C3%B1era-ducha-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=Kz54SmhHQj4OdcAtUym5ILgYnM37c63kpQa5r2D7iXc=",
+        "pic_md": "https://media.istockphoto.com/id/1357455881/es/foto/vista-de-esquina-en-el-interior-del-ba%C3%B1o-con-ba%C3%B1era-ducha-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=Kz54SmhHQj4OdcAtUym5ILgYnM37c63kpQa5r2D7iXc=",
+        "pic_sm": "https://media.istockphoto.com/id/1357455881/es/foto/vista-de-esquina-en-el-interior-del-ba%C3%B1o-con-ba%C3%B1era-ducha-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=Kz54SmhHQj4OdcAtUym5ILgYnM37c63kpQa5r2D7iXc="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-4.1033, 36.7412]
+    }
+  },
+  {
+    "_id": "ObjectId_5",
+    "dev_id": 5,
+    "status_oid": "ObjectId_5",
+    "status_id": 2,
+    "status": {
+      "es": "Sobre plano",
+      "en": "Off-plan"
+    },
+    "reference": "DEV005",
+
+    "title": {
+      "es": "Residencial Marbella Golf",
+      "en": "Marbella Golf Residential"
+    },
+    "type": "Villas",
+    "town": "Marbella",
+    "area": "Nueva Andalucía",
+    "postcode": "29660",
+    "developer": {
+      "name": "Marbella Homes",
+      "email": ["info@marbellahomes.com"],
+      "phone": ["+34 900 345 678"],
+      "web": ["https://www.marbellahomes.com/proyecto"],
+      "comm": "6%",
+      "notes": "<p>Términos de pago:</p><p>Reserva: 8000€</p><p>Contrato privado: 25% (menos la reserva)</p><p>Entrega: 75% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 180,
+        "max": 300
+      },
+      "plot_area": {
+        "min": 400,
+        "max": 800
+      },
+      "covered_terrace": {
+        "min": 40,
+        "max": 80
+      }
+    },
+    "completion_date": {
+      "en": "2027 Q2",
+      "es": "2º trimestre 2027"
+    },
+    "start_date": {
+      "en": "2025 Q4",
+      "es": "4º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 750000,
+      "max": 1200000
+    },
+    "beds": {
+      "min": 3,
+      "max": 6
+    },
+    "baths": {
+      "min": 3,
+      "max": 5
+    },
+    "map": {
+      "lat": "36.5058",
+      "lgt": "-4.9351"
+    },
+    "descriptions": {
+      "es": "Exclusivas villas de lujo en el corazón de Marbella, cerca de campos de golf y con vistas al mar.",
+      "en": "Exclusive luxury villas in the heart of Marbella, near golf courses and with sea views."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1326289390/es/foto/casa-de-lujo-en-dise%C3%B1o-moderno-c%C3%A9sped-de-hierba-verde-en-casa-de-vacaciones.jpg?s=612x612&w=0&k=20&c=iebpqwXonTlo_q6eU80-ADzNMGs3VOduU4ThllWkpR0=",
+        "pic_lg": "https://media.istockphoto.com/id/1326289390/es/foto/casa-de-lujo-en-dise%C3%B1o-moderno-c%C3%A9sped-de-hierba-verde-en-casa-de-vacaciones.jpg?s=612x612&w=0&k=20&c=iebpqwXonTlo_q6eU80-ADzNMGs3VOduU4ThllWkpR0=",
+        "pic_md": "https://media.istockphoto.com/id/1326289390/es/foto/casa-de-lujo-en-dise%C3%B1o-moderno-c%C3%A9sped-de-hierba-verde-en-casa-de-vacaciones.jpg?s=612x612&w=0&k=20&c=iebpqwXonTlo_q6eU80-ADzNMGs3VOduU4ThllWkpR0=",
+        "pic_sm": "https://media.istockphoto.com/id/1326289390/es/foto/casa-de-lujo-en-dise%C3%B1o-moderno-c%C3%A9sped-de-hierba-verde-en-casa-de-vacaciones.jpg?s=612x612&w=0&k=20&c=iebpqwXonTlo_q6eU80-ADzNMGs3VOduU4ThllWkpR0="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/2153678863/es/foto/mesa-en-el-suelo-beige-del-luminoso-comedor-cerca-de-la-sala-de-estar-y-sof%C3%A1-contra-el.jpg?s=612x612&w=0&k=20&c=ku3xKjuqaYOFoy8tEt7vNdASPQgyGN1np8jyk0ZO2Rs=",
+        "pic_lg": "https://media.istockphoto.com/id/2153678863/es/foto/mesa-en-el-suelo-beige-del-luminoso-comedor-cerca-de-la-sala-de-estar-y-sof%C3%A1-contra-el.jpg?s=612x612&w=0&k=20&c=ku3xKjuqaYOFoy8tEt7vNdASPQgyGN1np8jyk0ZO2Rs=",
+        "pic_md": "https://media.istockphoto.com/id/2153678863/es/foto/mesa-en-el-suelo-beige-del-luminoso-comedor-cerca-de-la-sala-de-estar-y-sof%C3%A1-contra-el.jpg?s=612x612&w=0&k=20&c=ku3xKjuqaYOFoy8tEt7vNdASPQgyGN1np8jyk0ZO2Rs=",
+        "pic_sm": "https://media.istockphoto.com/id/2153678863/es/foto/mesa-en-el-suelo-beige-del-luminoso-comedor-cerca-de-la-sala-de-estar-y-sof%C3%A1-contra-el.jpg?s=612x612&w=0&k=20&c=ku3xKjuqaYOFoy8tEt7vNdASPQgyGN1np8jyk0ZO2Rs="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/2195198315/es/foto/una-cocina-moderna-con-gabinetes-verdes-dise%C3%B1o-minimalista-una-gran-isla-con-asientos-y-una.jpg?s=612x612&w=0&k=20&c=zvLCgULKXX0zXKozA3zUf6x265D96Fl3JJvGo0WJmKg=",
+        "pic_lg": "https://media.istockphoto.com/id/2195198315/es/foto/una-cocina-moderna-con-gabinetes-verdes-dise%C3%B1o-minimalista-una-gran-isla-con-asientos-y-una.jpg?s=612x612&w=0&k=20&c=zvLCgULKXX0zXKozA3zUf6x265D96Fl3JJvGo0WJmKg=",
+        "pic_md": "https://media.istockphoto.com/id/2195198315/es/foto/una-cocina-moderna-con-gabinetes-verdes-dise%C3%B1o-minimalista-una-gran-isla-con-asientos-y-una.jpg?s=612x612&w=0&k=20&c=zvLCgULKXX0zXKozA3zUf6x265D96Fl3JJvGo0WJmKg=",
+        "pic_sm": "https://media.istockphoto.com/id/2195198315/es/foto/una-cocina-moderna-con-gabinetes-verdes-dise%C3%B1o-minimalista-una-gran-isla-con-asientos-y-una.jpg?s=612x612&w=0&k=20&c=zvLCgULKXX0zXKozA3zUf6x265D96Fl3JJvGo0WJmKg="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/688154624/es/foto/gris-de-tina-de-ba%C3%B1o-blancos-de-ladrillo-frente.jpg?s=612x612&w=0&k=20&c=boqhfSNqUmBnVlVYhI6Xx6MOoqPCi3nIRrCckByYHFY=",
+        "pic_lg": "https://media.istockphoto.com/id/688154624/es/foto/gris-de-tina-de-ba%C3%B1o-blancos-de-ladrillo-frente.jpg?s=612x612&w=0&k=20&c=boqhfSNqUmBnVlVYhI6Xx6MOoqPCi3nIRrCckByYHFY=",
+        "pic_md": "https://media.istockphoto.com/id/688154624/es/foto/gris-de-tina-de-ba%C3%B1o-blancos-de-ladrillo-frente.jpg?s=612x612&w=0&k=20&c=boqhfSNqUmBnVlVYhI6Xx6MOoqPCi3nIRrCckByYHFY=",
+        "pic_sm": "https://media.istockphoto.com/id/688154624/es/foto/gris-de-tina-de-ba%C3%B1o-blancos-de-ladrillo-frente.jpg?s=612x612&w=0&k=20&c=boqhfSNqUmBnVlVYhI6Xx6MOoqPCi3nIRrCckByYHFY="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-4.9351, 36.5058]
+    }
+  },
+  {
+    "_id": "ObjectId_6",
+    "dev_id": 6,
+    "status_oid": "ObjectId_6",
+    "status_id": 3,
+    "status": {
+      "es": "Con licencia",
+      "en": "With license"
+    },
+    "reference": "DEV006",
+
+    "title": {
+      "es": "Torres de Alicante",
+      "en": "Alicante Towers"
+    },
+
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Alicante",
+    "area": "Paseo Marítimo",
+    "postcode": "03002",
+    "developer": {
+      "name": "Inmobiliaria Costa Blanca",
+      "email": ["contacto@costablanca.com"],
+      "phone": ["+34 900 456 789"],
+      "web": ["https://www.costablanca.com/proyecto"],
+      "comm": "4%",
+      "notes": "<p>Reserva: 4000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 90,
+        "max": 150
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 15,
+        "max": 35
+      }
+    },
+    "completion_date": {
+      "en": "2026 Q4",
+      "es": "4º trimestre 2026"
+    },
+    "start_date": {
+      "en": "2025 Q1",
+      "es": "1º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 300000,
+      "max": 500000
+    },
+    "beds": {
+      "min": 2,
+      "max": 4
+    },
+    "baths": {
+      "min": 2,
+      "max": 3
+    },
+    "map": {
+      "lat": "38.3433",
+      "lgt": "-0.4831"
+    },
+    "descriptions": {
+      "es": "Apartamentos de lujo en el paseo marítimo de Alicante, con impresionantes vistas al mar.",
+      "en": "Luxury apartments on the Alicante seafront promenade, with stunning sea views."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8=",
+        "pic_lg": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8=",
+        "pic_md": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8=",
+        "pic_sm": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1448812541/es/foto/renderizado-3d-ilustraci%C3%B3n-3d-escena-interior-y-maqueta-interior-de-la-sala-de-estar-estilo.jpg?s=612x612&w=0&k=20&c=mpKzS2A9LZ4ehkRwdR3v90TPL_SB2RzpNrri5rUbdbo=",
+        "pic_lg": "https://media.istockphoto.com/id/1448812541/es/foto/renderizado-3d-ilustraci%C3%B3n-3d-escena-interior-y-maqueta-interior-de-la-sala-de-estar-estilo.jpg?s=612x612&w=0&k=20&c=mpKzS2A9LZ4ehkRwdR3v90TPL_SB2RzpNrri5rUbdbo=",
+        "pic_md": "https://media.istockphoto.com/id/1448812541/es/foto/renderizado-3d-ilustraci%C3%B3n-3d-escena-interior-y-maqueta-interior-de-la-sala-de-estar-estilo.jpg?s=612x612&w=0&k=20&c=mpKzS2A9LZ4ehkRwdR3v90TPL_SB2RzpNrri5rUbdbo=",
+        "pic_sm": "https://media.istockphoto.com/id/1448812541/es/foto/renderizado-3d-ilustraci%C3%B3n-3d-escena-interior-y-maqueta-interior-de-la-sala-de-estar-estilo.jpg?s=612x612&w=0&k=20&c=mpKzS2A9LZ4ehkRwdR3v90TPL_SB2RzpNrri5rUbdbo="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1455974958/es/foto/maqueta-de-p%C3%B3ster-interior-con-marco-de-madera-vac%C3%ADo-horizontal-estilo-escandinavo-renderizado.jpg?s=612x612&w=0&k=20&c=zIc29zd0wRDXQ9ol-1AkM79QCz08Lem91ip0Xay8iGY=",
+        "pic_lg": "https://media.istockphoto.com/id/1455974958/es/foto/maqueta-de-p%C3%B3ster-interior-con-marco-de-madera-vac%C3%ADo-horizontal-estilo-escandinavo-renderizado.jpg?s=612x612&w=0&k=20&c=zIc29zd0wRDXQ9ol-1AkM79QCz08Lem91ip0Xay8iGY=",
+        "pic_md": "https://media.istockphoto.com/id/1455974958/es/foto/maqueta-de-p%C3%B3ster-interior-con-marco-de-madera-vac%C3%ADo-horizontal-estilo-escandinavo-renderizado.jpg?s=612x612&w=0&k=20&c=zIc29zd0wRDXQ9ol-1AkM79QCz08Lem91ip0Xay8iGY=",
+        "pic_sm": "https://media.istockphoto.com/id/1455974958/es/foto/maqueta-de-p%C3%B3ster-interior-con-marco-de-madera-vac%C3%ADo-horizontal-estilo-escandinavo-renderizado.jpg?s=612x612&w=0&k=20&c=zIc29zd0wRDXQ9ol-1AkM79QCz08Lem91ip0Xay8iGY="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1055643920/es/foto/esquina-del-cuarto-de-ba%C3%B1o-de-estilo-escandinavo-gris.jpg?s=612x612&w=0&k=20&c=RanI8MBRugqacd2W3nDpYPo1QLDGAAbJqDA-bLMyyiA=",
+        "pic_lg": "https://media.istockphoto.com/id/1055643920/es/foto/esquina-del-cuarto-de-ba%C3%B1o-de-estilo-escandinavo-gris.jpg?s=612x612&w=0&k=20&c=RanI8MBRugqacd2W3nDpYPo1QLDGAAbJqDA-bLMyyiA=",
+        "pic_md": "https://media.istockphoto.com/id/1055643920/es/foto/esquina-del-cuarto-de-ba%C3%B1o-de-estilo-escandinavo-gris.jpg?s=612x612&w=0&k=20&c=RanI8MBRugqacd2W3nDpYPo1QLDGAAbJqDA-bLMyyiA=",
+        "pic_sm": "https://media.istockphoto.com/id/1055643920/es/foto/esquina-del-cuarto-de-ba%C3%B1o-de-estilo-escandinavo-gris.jpg?s=612x612&w=0&k=20&c=RanI8MBRugqacd2W3nDpYPo1QLDGAAbJqDA-bLMyyiA="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-0.4831, 38.3433]
+    }
+  },
+  {
+    "_id": "ObjectId_7",
+    "dev_id": 7,
+    "status_oid": "ObjectId_7",
+    "status_id": 1,
+    "status": {
+      "es": "Próximamente",
+      "en": "Coming soon"
+    },
+    "reference": "DEV007",
+
+    "title": {
+      "es": "Residencial Córdoba Vista",
+      "en": "Córdoba Vista Residential"
+    },
+
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Córdoba",
+    "area": "Centro Histórico",
+    "postcode": "14003",
+    "developer": {
+      "name": "Córdoba Inmuebles",
+      "email": ["info@cordobainmuebles.com"],
+      "phone": ["+34 900 567 890"],
+      "web": ["https://www.cordobainmuebles.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Reserva: 3000€</p><p>Contrato privado: 20% (menos la reserva)</p><p>Entrega: 80% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 80,
+        "max": 130
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 10,
+        "max": 25
+      }
+    },
+    "completion_date": {
+      "en": "2026 Q1",
+      "es": "1º trimestre 2026"
+    },
+    "start_date": {
+      "en": "2025 Q2",
+      "es": "2º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 180000,
+      "max": 350000
+    },
+    "beds": {
+      "min": 1,
+      "max": 3
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "37.8882",
+      "lgt": "-4.7794"
+    },
+    "descriptions": {
+      "es": "Apartamentos modernos en el corazón de Córdoba, cerca de la Mezquita.",
+      "en": "Modern apartments in the heart of Córdoba, near the Mezquita."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8=",
+        "pic_lg": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8=",
+        "pic_md": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8=",
+        "pic_sm": "https://media.istockphoto.com/id/1508852781/es/foto/fachada-de-un-edificio-de-apartamentos-tur%C3%ADsticos-blancos.jpg?s=612x612&w=0&k=20&c=v651sj0uHfcpqaO5096sjH75i3jBqJKpsRGxVg0CMx8="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1358549896/es/foto/interior-de-cocina-ligera-con-sof%C3%A1-y-mesa-con-sillas-estanter%C3%ADa-y-menaje-de-cocina.jpg?s=612x612&w=0&k=20&c=v7veAduiMwp25HB-e3wIBYE5U6GPOp3hRmnqt-PXIAI=",
+        "pic_lg": "https://media.istockphoto.com/id/1358549896/es/foto/interior-de-cocina-ligera-con-sof%C3%A1-y-mesa-con-sillas-estanter%C3%ADa-y-menaje-de-cocina.jpg?s=612x612&w=0&k=20&c=v7veAduiMwp25HB-e3wIBYE5U6GPOp3hRmnqt-PXIAI=",
+        "pic_md": "https://media.istockphoto.com/id/1358549896/es/foto/interior-de-cocina-ligera-con-sof%C3%A1-y-mesa-con-sillas-estanter%C3%ADa-y-menaje-de-cocina.jpg?s=612x612&w=0&k=20&c=v7veAduiMwp25HB-e3wIBYE5U6GPOp3hRmnqt-PXIAI=",
+        "pic_sm": "https://media.istockphoto.com/id/1358549896/es/foto/interior-de-cocina-ligera-con-sof%C3%A1-y-mesa-con-sillas-estanter%C3%ADa-y-menaje-de-cocina.jpg?s=612x612&w=0&k=20&c=v7veAduiMwp25HB-e3wIBYE5U6GPOp3hRmnqt-PXIAI="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1414079371/es/foto/sala-de-trabajo-con-vistas-al-mar-renderizado-3d.jpg?s=612x612&w=0&k=20&c=47I8t-dFlC2tFta7z-b0Xa4SWK8XF-i-G8eLsF3qcso=",
+        "pic_lg": "https://media.istockphoto.com/id/1414079371/es/foto/sala-de-trabajo-con-vistas-al-mar-renderizado-3d.jpg?s=612x612&w=0&k=20&c=47I8t-dFlC2tFta7z-b0Xa4SWK8XF-i-G8eLsF3qcso=",
+        "pic_md": "https://media.istockphoto.com/id/1414079371/es/foto/sala-de-trabajo-con-vistas-al-mar-renderizado-3d.jpg?s=612x612&w=0&k=20&c=47I8t-dFlC2tFta7z-b0Xa4SWK8XF-i-G8eLsF3qcso=",
+        "pic_sm": "https://media.istockphoto.com/id/1414079371/es/foto/sala-de-trabajo-con-vistas-al-mar-renderizado-3d.jpg?s=612x612&w=0&k=20&c=47I8t-dFlC2tFta7z-b0Xa4SWK8XF-i-G8eLsF3qcso="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/2155901078/es/foto/un-gran-cuarto-de-ba%C3%B1o-con-grandes-espejos-armarios-de-madera-y-lavabos.jpg?s=612x612&w=0&k=20&c=N8NMcDTOnfiPyA7OLBlqe1P8pqp2hX5yfgnmWHLyE9g=",
+        "pic_lg": "https://media.istockphoto.com/id/2155901078/es/foto/un-gran-cuarto-de-ba%C3%B1o-con-grandes-espejos-armarios-de-madera-y-lavabos.jpg?s=612x612&w=0&k=20&c=N8NMcDTOnfiPyA7OLBlqe1P8pqp2hX5yfgnmWHLyE9g=",
+        "pic_md": "https://media.istockphoto.com/id/2155901078/es/foto/un-gran-cuarto-de-ba%C3%B1o-con-grandes-espejos-armarios-de-madera-y-lavabos.jpg?s=612x612&w=0&k=20&c=N8NMcDTOnfiPyA7OLBlqe1P8pqp2hX5yfgnmWHLyE9g=",
+        "pic_sm": "https://media.istockphoto.com/id/2155901078/es/foto/un-gran-cuarto-de-ba%C3%B1o-con-grandes-espejos-armarios-de-madera-y-lavabos.jpg?s=612x612&w=0&k=20&c=N8NMcDTOnfiPyA7OLBlqe1P8pqp2hX5yfgnmWHLyE9g="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-4.7794, 37.8882]
+    }
+  },
+  {
+    "_id": "ObjectId_8",
+    "dev_id": 8,
+    "status_oid": "ObjectId_8",
+    "status_id": 4,
+    "status": {
+      "es": "Finalizado",
+      "en": "Finished"
+    },
+    "reference": "DEV008",
+
+    "title": {
+      "es": "Residencial Cádiz Beach",
+      "en": "Cádiz Beach Residential"
+    },
+
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Cádiz",
+    "area": "Playa de la Victoria",
+    "postcode": "11010",
+    "developer": {
+      "name": "Cádiz Inmobiliaria",
+      "email": ["contacto@cadizinmobiliaria.com"],
+      "phone": ["+34 900 678 901"],
+      "web": ["https://www.cadizinmobiliaria.com/proyecto"],
+      "comm": "4%",
+      "notes": "<p>Reserva: 5000€</p><p>Contrato privado: 25% (menos la reserva)</p><p>Entrega: 75% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 70,
+        "max": 120
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 10,
+        "max": 20
+      }
+    },
+    "completion_date": {
+      "en": "2025 Q3",
+      "es": "3º trimestre 2025"
+    },
+    "start_date": {
+      "en": "2024 Q4",
+      "es": "4º trimestre 2024"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 250000,
+      "max": 400000
+    },
+    "beds": {
+      "min": 1,
+      "max": 3
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "36.5275",
+      "lgt": "-6.2882"
+    },
+    "descriptions": {
+      "es": "Apartamentos frente al mar en la Playa de la Victoria, Cádiz.",
+      "en": "Seafront apartments in Playa de la Victoria, Cádiz."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/2195035683/es/foto/paisajismo-para-espacios-urbanos-edificio-moderno-y-complejo-calle-con-acera-en-calzada.jpg?s=612x612&w=0&k=20&c=U9xgU50YKnzX_Q2ydUIi-4THzAtHKJT50A34CdaZwLs=",
+        "pic_lg": "https://media.istockphoto.com/id/2195035683/es/foto/paisajismo-para-espacios-urbanos-edificio-moderno-y-complejo-calle-con-acera-en-calzada.jpg?s=612x612&w=0&k=20&c=U9xgU50YKnzX_Q2ydUIi-4THzAtHKJT50A34CdaZwLs=",
+        "pic_md": "https://media.istockphoto.com/id/2195035683/es/foto/paisajismo-para-espacios-urbanos-edificio-moderno-y-complejo-calle-con-acera-en-calzada.jpg?s=612x612&w=0&k=20&c=U9xgU50YKnzX_Q2ydUIi-4THzAtHKJT50A34CdaZwLs=",
+        "pic_sm": "https://media.istockphoto.com/id/2195035683/es/foto/paisajismo-para-espacios-urbanos-edificio-moderno-y-complejo-calle-con-acera-en-calzada.jpg?s=612x612&w=0&k=20&c=U9xgU50YKnzX_Q2ydUIi-4THzAtHKJT50A34CdaZwLs="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1732984082/es/foto/dise%C3%B1o-de-interiores-de-la-cocina-moderna.jpg?s=612x612&w=0&k=20&c=CoMTW9jxaZm-M6cWAr_JSITlokI32pxZo3_0ezK6ryw=",
+        "pic_lg": "https://media.istockphoto.com/id/1732984082/es/foto/dise%C3%B1o-de-interiores-de-la-cocina-moderna.jpg?s=612x612&w=0&k=20&c=CoMTW9jxaZm-M6cWAr_JSITlokI32pxZo3_0ezK6ryw=",
+        "pic_md": "https://media.istockphoto.com/id/1732984082/es/foto/dise%C3%B1o-de-interiores-de-la-cocina-moderna.jpg?s=612x612&w=0&k=20&c=CoMTW9jxaZm-M6cWAr_JSITlokI32pxZo3_0ezK6ryw=",
+        "pic_sm": "https://media.istockphoto.com/id/1732984082/es/foto/dise%C3%B1o-de-interiores-de-la-cocina-moderna.jpg?s=612x612&w=0&k=20&c=CoMTW9jxaZm-M6cWAr_JSITlokI32pxZo3_0ezK6ryw="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1281613476/es/foto/rel%C3%A1jate-en-la-naturaleza.jpg?s=612x612&w=0&k=20&c=0CHnAUChaapCagfSVSJQvWvNPGU9K1jloe6wLeXsI0w=",
+        "pic_lg": "https://media.istockphoto.com/id/1281613476/es/foto/rel%C3%A1jate-en-la-naturaleza.jpg?s=612x612&w=0&k=20&c=0CHnAUChaapCagfSVSJQvWvNPGU9K1jloe6wLeXsI0w=",
+        "pic_md": "https://media.istockphoto.com/id/1281613476/es/foto/rel%C3%A1jate-en-la-naturaleza.jpg?s=612x612&w=0&k=20&c=0CHnAUChaapCagfSVSJQvWvNPGU9K1jloe6wLeXsI0w=",
+        "pic_sm": "https://media.istockphoto.com/id/1281613476/es/foto/rel%C3%A1jate-en-la-naturaleza.jpg?s=612x612&w=0&k=20&c=0CHnAUChaapCagfSVSJQvWvNPGU9K1jloe6wLeXsI0w="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1164176876/es/foto/esquina-de-ba%C3%B1o-%C3%A1tico-con-lavabo-de-madera.jpg?s=612x612&w=0&k=20&c=T548pcnRLurkg--gO88BhSRfZDoPNfWnDwaOl6GJcIc=",
+        "pic_lg": "https://media.istockphoto.com/id/1164176876/es/foto/esquina-de-ba%C3%B1o-%C3%A1tico-con-lavabo-de-madera.jpg?s=612x612&w=0&k=20&c=T548pcnRLurkg--gO88BhSRfZDoPNfWnDwaOl6GJcIc=",
+        "pic_md": "https://media.istockphoto.com/id/1164176876/es/foto/esquina-de-ba%C3%B1o-%C3%A1tico-con-lavabo-de-madera.jpg?s=612x612&w=0&k=20&c=T548pcnRLurkg--gO88BhSRfZDoPNfWnDwaOl6GJcIc=",
+        "pic_sm": "https://media.istockphoto.com/id/1164176876/es/foto/esquina-de-ba%C3%B1o-%C3%A1tico-con-lavabo-de-madera.jpg?s=612x612&w=0&k=20&c=T548pcnRLurkg--gO88BhSRfZDoPNfWnDwaOl6GJcIc="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-6.2882, 36.5275]
+    }
+  },
+  {
+    "_id": "ObjectId_9",
+    "dev_id": 9,
+    "status_oid": "ObjectId_9",
+    "status_id": 3,
+    "status": {
+      "es": "Con licencia",
+      "en": "With license"
+    },
+    "reference": "DEV009",
+
+    "title": {
+      "es": "Edificio Sevilla Central",
+      "en": "Sevilla Central Building"
+    },
+
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Sevilla",
+    "area": "Centro",
+    "postcode": "41001",
+    "developer": {
+      "name": "Sevilla Inmuebles",
+      "email": ["contacto@sevillainmuebles.com"],
+      "phone": ["+34 900 987 654"],
+      "web": ["https://www.sevillainmuebles.com/proyecto"],
+      "comm": "4%",
+      "notes": "<p>Reserva: 2000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 75,
+        "max": 120
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 12,
+        "max": 25
+      }
+    },
+    "completion_date": {
+      "en": "2026 Q3",
+      "es": "3º trimestre 2026"
+    },
+    "start_date": {
+      "en": "2025 Q2",
+      "es": "2º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 180000,
+      "max": 350000
+    },
+    "beds": {
+      "min": 1,
+      "max": 3
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "37.3891",
+      "lgt": "-5.9845"
+    },
+    "descriptions": {
+      "es": "Apartamentos modernos en pleno centro de Sevilla, cerca de la Giralda.",
+      "en": "Modern apartments in the heart of Seville, near the Giralda."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1485880045/es/foto/fachada-principal-del-edificio-de-apartamentos-residenciales-en-un-d%C3%ADa-soleado.jpg?s=612x612&w=0&k=20&c=YzxKoe0TeYwWDRPg4R2ZSz1Wk_71SKrlBZTyFOIgCF8=",
+        "pic_lg": "https://media.istockphoto.com/id/1485880045/es/foto/fachada-principal-del-edificio-de-apartamentos-residenciales-en-un-d%C3%ADa-soleado.jpg?s=612x612&w=0&k=20&c=YzxKoe0TeYwWDRPg4R2ZSz1Wk_71SKrlBZTyFOIgCF8=",
+        "pic_md": "https://media.istockphoto.com/id/1485880045/es/foto/fachada-principal-del-edificio-de-apartamentos-residenciales-en-un-d%C3%ADa-soleado.jpg?s=612x612&w=0&k=20&c=YzxKoe0TeYwWDRPg4R2ZSz1Wk_71SKrlBZTyFOIgCF8=",
+        "pic_sm": "https://media.istockphoto.com/id/1485880045/es/foto/fachada-principal-del-edificio-de-apartamentos-residenciales-en-un-d%C3%ADa-soleado.jpg?s=612x612&w=0&k=20&c=YzxKoe0TeYwWDRPg4R2ZSz1Wk_71SKrlBZTyFOIgCF8="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1462764689/es/foto/brillante-interior-moderno.jpg?s=612x612&w=0&k=20&c=yRX_UiyPEtmbAnJnDOiLZgE0BYANOMKsWBX_zTUs7lo=",
+        "pic_lg": "https://media.istockphoto.com/id/1462764689/es/foto/brillante-interior-moderno.jpg?s=612x612&w=0&k=20&c=yRX_UiyPEtmbAnJnDOiLZgE0BYANOMKsWBX_zTUs7lo=",
+        "pic_md": "https://media.istockphoto.com/id/1462764689/es/foto/brillante-interior-moderno.jpg?s=612x612&w=0&k=20&c=yRX_UiyPEtmbAnJnDOiLZgE0BYANOMKsWBX_zTUs7lo=",
+        "pic_sm": "https://media.istockphoto.com/id/1462764689/es/foto/brillante-interior-moderno.jpg?s=612x612&w=0&k=20&c=yRX_UiyPEtmbAnJnDOiLZgE0BYANOMKsWBX_zTUs7lo="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/546176670/es/foto/patio-moderno-con-conjunto-de-muebles.jpg?s=612x612&w=0&k=20&c=fUAY3tVG-KxgS_YAqCiX3CJtWGAZ_dItdfGaoyRV-Cs=",
+        "pic_lg": "https://media.istockphoto.com/id/546176670/es/foto/patio-moderno-con-conjunto-de-muebles.jpg?s=612x612&w=0&k=20&c=fUAY3tVG-KxgS_YAqCiX3CJtWGAZ_dItdfGaoyRV-Cs=",
+        "pic_md": "https://media.istockphoto.com/id/546176670/es/foto/patio-moderno-con-conjunto-de-muebles.jpg?s=612x612&w=0&k=20&c=fUAY3tVG-KxgS_YAqCiX3CJtWGAZ_dItdfGaoyRV-Cs=",
+        "pic_sm": "https://media.istockphoto.com/id/546176670/es/foto/patio-moderno-con-conjunto-de-muebles.jpg?s=612x612&w=0&k=20&c=fUAY3tVG-KxgS_YAqCiX3CJtWGAZ_dItdfGaoyRV-Cs="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo=",
+        "pic_lg": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo=",
+        "pic_md": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo=",
+        "pic_sm": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-5.9845, 37.3891]
+    }
+  },
+  {
+    "_id": "ObjectId_10",
+    "dev_id": 10,
+    "status_oid": "ObjectId_10",
+    "status_id": 1,
+    "status": {
+      "es": "Próximamente",
+      "en": "Coming soon"
+    },
+    "reference": "DEV010",
+    "type": {
+      "es": "Aticos",
+      "en": "Penthouse"
+    },
+    "town": "Valencia",
+    "area": "Ciutat Vella",
+    "postcode": "46001",
+    "developer": {
+      "name": "Valencia Real Estate",
+      "email": ["info@valenciarealestate.com"],
+      "phone": ["+34 900 321 654"],
+      "web": ["https://www.valenciarealestate.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Reserva: 5000€</p><p>Contrato privado: 25% (menos la reserva)</p><p>Entrega: 75% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 100,
+        "max": 180
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 20,
+        "max": 50
+      }
+    },
+    "completion_date": {
+      "en": "2027 Q1",
+      "es": "1º trimestre 2027"
+    },
+    "start_date": {
+      "en": "2025 Q3",
+      "es": "3º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 550000,
+      "max": 850000
+    },
+    "beds": {
+      "min": 2,
+      "max": 4
+    },
+    "baths": {
+      "min": 2,
+      "max": 4
+    },
+    "map": {
+      "lat": "39.4699",
+      "lgt": "-0.3763"
+    },
+    "descriptions": {
+      "es": "Exclusivos áticos con vistas panorámicas en el centro de Valencia.",
+      "en": "Exclusive penthouses with panoramic views in the heart of Valencia."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1385741238/es/foto/ilustraci%C3%B3n-en-3d-de-la-terraza-del-apartamento-de-lujo-en-el-%C3%BAltimo-piso-con-p%C3%A9rgola.jpg?s=612x612&w=0&k=20&c=mVJc74AsPPaCRCJT6dYGdkDrncfXzK5cK3TW2h2AT8s=",
+        "pic_lg": "https://media.istockphoto.com/id/1385741238/es/foto/ilustraci%C3%B3n-en-3d-de-la-terraza-del-apartamento-de-lujo-en-el-%C3%BAltimo-piso-con-p%C3%A9rgola.jpg?s=612x612&w=0&k=20&c=mVJc74AsPPaCRCJT6dYGdkDrncfXzK5cK3TW2h2AT8s=",
+        "pic_md": "https://media.istockphoto.com/id/1385741238/es/foto/ilustraci%C3%B3n-en-3d-de-la-terraza-del-apartamento-de-lujo-en-el-%C3%BAltimo-piso-con-p%C3%A9rgola.jpg?s=612x612&w=0&k=20&c=mVJc74AsPPaCRCJT6dYGdkDrncfXzK5cK3TW2h2AT8s=",
+        "pic_sm": "https://media.istockphoto.com/id/1385741238/es/foto/ilustraci%C3%B3n-en-3d-de-la-terraza-del-apartamento-de-lujo-en-el-%C3%BAltimo-piso-con-p%C3%A9rgola.jpg?s=612x612&w=0&k=20&c=mVJc74AsPPaCRCJT6dYGdkDrncfXzK5cK3TW2h2AT8s="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1173363449/es/foto/cocina-moderna-de-estilo-escandinavo-con-mesa-de-comedor-dise%C3%B1o-moderno-de-cocina-con-muebles.jpg?s=612x612&w=0&k=20&c=74eywRvgvKZpqMHjNYqMDvwH_CH9jNsoGpRJji9gByg=",
+        "pic_lg": "https://media.istockphoto.com/id/1173363449/es/foto/cocina-moderna-de-estilo-escandinavo-con-mesa-de-comedor-dise%C3%B1o-moderno-de-cocina-con-muebles.jpg?s=612x612&w=0&k=20&c=74eywRvgvKZpqMHjNYqMDvwH_CH9jNsoGpRJji9gByg=",
+        "pic_md": "https://media.istockphoto.com/id/1173363449/es/foto/cocina-moderna-de-estilo-escandinavo-con-mesa-de-comedor-dise%C3%B1o-moderno-de-cocina-con-muebles.jpg?s=612x612&w=0&k=20&c=74eywRvgvKZpqMHjNYqMDvwH_CH9jNsoGpRJji9gByg=",
+        "pic_sm": "https://media.istockphoto.com/id/1173363449/es/foto/cocina-moderna-de-estilo-escandinavo-con-mesa-de-comedor-dise%C3%B1o-moderno-de-cocina-con-muebles.jpg?s=612x612&w=0&k=20&c=74eywRvgvKZpqMHjNYqMDvwH_CH9jNsoGpRJji9gByg="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1294653514/es/foto/balc%C3%B3n-%C3%A1tico-con-suelo-de-madera.jpg?s=612x612&w=0&k=20&c=8ntaNFu1bcFYD1FDPkmQvZRkhlgfWHgOPHzwtY8-u0A=",
+        "pic_lg": "https://media.istockphoto.com/id/1294653514/es/foto/balc%C3%B3n-%C3%A1tico-con-suelo-de-madera.jpg?s=612x612&w=0&k=20&c=8ntaNFu1bcFYD1FDPkmQvZRkhlgfWHgOPHzwtY8-u0A=",
+        "pic_md": "https://media.istockphoto.com/id/1294653514/es/foto/balc%C3%B3n-%C3%A1tico-con-suelo-de-madera.jpg?s=612x612&w=0&k=20&c=8ntaNFu1bcFYD1FDPkmQvZRkhlgfWHgOPHzwtY8-u0A=",
+        "pic_sm": "https://media.istockphoto.com/id/1294653514/es/foto/balc%C3%B3n-%C3%A1tico-con-suelo-de-madera.jpg?s=612x612&w=0&k=20&c=8ntaNFu1bcFYD1FDPkmQvZRkhlgfWHgOPHzwtY8-u0A="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo=",
+        "pic_lg": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo=",
+        "pic_md": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo=",
+        "pic_sm": "https://media.istockphoto.com/id/2155900934/es/foto/un-ba%C3%B1o-con-taburete-de-madera-lavabo-y-espejo-junto-con-la-zona-de-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=iXKkuC2rls0KdD6Efyu1GXRfhCPYHkAEVp1IxuUDHUo="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-0.3763, 39.4699]
+    }
+  },
+  {
+    "_id": "ObjectId_11",
+    "dev_id": 11,
+    "status_oid": "ObjectId_11",
+    "status_id": 2,
+    "status": {
+      "es": "Sobre plano",
+      "en": "Off-plan"
+    },
+    "reference": "DEV011",
+
+    "title": {
+      "es": "Altos de Granada",
+      "en": "Highs of Granada"
+    },
+    "type": {
+      "es": "Chalets",
+      "en": "House"
+    },
+    "town": "Granada",
+    "area": "Albaicín",
+    "postcode": "18010",
+    "developer": {
+      "name": "Granada Developers",
+      "email": ["contacto@granadadevelopers.com"],
+      "phone": ["+34 900 543 210"],
+      "web": ["https://www.granadadevelopers.com/proyecto"],
+      "comm": "6%",
+      "notes": "<p>Reserva: 7000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 200,
+        "max": 400
+      },
+      "plot_area": {
+        "min": 500,
+        "max": 1000
+      },
+      "covered_terrace": {
+        "min": 30,
+        "max": 100
+      }
+    },
+    "completion_date": {
+      "en": "2027 Q4",
+      "es": "4º trimestre 2027"
+    },
+    "start_date": {
+      "en": "2025 Q1",
+      "es": "1º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 1000000,
+      "max": 1500000
+    },
+    "beds": {
+      "min": 4,
+      "max": 6
+    },
+    "baths": {
+      "min": 4,
+      "max": 6
+    },
+    "map": {
+      "lat": "37.1752",
+      "lgt": "-3.5896"
+    },
+    "descriptions": {
+      "es": "Chalets de lujo en el corazón de Granada, con vistas a la Alhambra.",
+      "en": "Luxury villas in the heart of Granada, with views of the Alhambra."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/938272738/es/foto/render-3d-de-moderna-acogedora-casa-junto-al-r%C3%ADo.jpg?s=612x612&w=0&k=20&c=u_KMW0_jUTWAH5Dx1oRBziCyaJpHZfYvEikyYc8TMQ8=",
+        "pic_lg": "https://media.istockphoto.com/id/938272738/es/foto/render-3d-de-moderna-acogedora-casa-junto-al-r%C3%ADo.jpg?s=612x612&w=0&k=20&c=u_KMW0_jUTWAH5Dx1oRBziCyaJpHZfYvEikyYc8TMQ8=",
+        "pic_md": "https://media.istockphoto.com/id/938272738/es/foto/render-3d-de-moderna-acogedora-casa-junto-al-r%C3%ADo.jpg?s=612x612&w=0&k=20&c=u_KMW0_jUTWAH5Dx1oRBziCyaJpHZfYvEikyYc8TMQ8=",
+        "pic_sm": "https://media.istockphoto.com/id/938272738/es/foto/render-3d-de-moderna-acogedora-casa-junto-al-r%C3%ADo.jpg?s=612x612&w=0&k=20&c=u_KMW0_jUTWAH5Dx1oRBziCyaJpHZfYvEikyYc8TMQ8="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1490401078/es/foto/moderna-terraza-en-casa-mesa-de-lujo-al-aire-libre-con-sillas-y-barbacoa-incorporada-dise%C3%B1o-de.jpg?s=612x612&w=0&k=20&c=sEqvEDVoKlrhvOFsGfc5-up8pf5AlHskukXcK7u1voI=",
+        "pic_lg": "https://media.istockphoto.com/id/1490401078/es/foto/moderna-terraza-en-casa-mesa-de-lujo-al-aire-libre-con-sillas-y-barbacoa-incorporada-dise%C3%B1o-de.jpg?s=612x612&w=0&k=20&c=sEqvEDVoKlrhvOFsGfc5-up8pf5AlHskukXcK7u1voI=",
+        "pic_md": "https://media.istockphoto.com/id/1490401078/es/foto/moderna-terraza-en-casa-mesa-de-lujo-al-aire-libre-con-sillas-y-barbacoa-incorporada-dise%C3%B1o-de.jpg?s=612x612&w=0&k=20&c=sEqvEDVoKlrhvOFsGfc5-up8pf5AlHskukXcK7u1voI=",
+        "pic_sm": "https://media.istockphoto.com/id/1490401078/es/foto/moderna-terraza-en-casa-mesa-de-lujo-al-aire-libre-con-sillas-y-barbacoa-incorporada-dise%C3%B1o-de.jpg?s=612x612&w=0&k=20&c=sEqvEDVoKlrhvOFsGfc5-up8pf5AlHskukXcK7u1voI="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/542298726/es/foto/patio-en-villa-moderna.jpg?s=612x612&w=0&k=20&c=LfsHcBHQr8Pe6jBnAsNQMQToacHDKKq0682IgOcDG9U=",
+        "pic_lg": "https://media.istockphoto.com/id/542298726/es/foto/patio-en-villa-moderna.jpg?s=612x612&w=0&k=20&c=LfsHcBHQr8Pe6jBnAsNQMQToacHDKKq0682IgOcDG9U=",
+        "pic_md": "https://media.istockphoto.com/id/542298726/es/foto/patio-en-villa-moderna.jpg?s=612x612&w=0&k=20&c=LfsHcBHQr8Pe6jBnAsNQMQToacHDKKq0682IgOcDG9U=",
+        "pic_sm": "https://media.istockphoto.com/id/542298726/es/foto/patio-en-villa-moderna.jpg?s=612x612&w=0&k=20&c=LfsHcBHQr8Pe6jBnAsNQMQToacHDKKq0682IgOcDG9U="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1067462896/es/foto/fregadero-tina-y-ba%C3%B1o-de-madera-interior.jpg?s=612x612&w=0&k=20&c=xacI1Dgp5_AU2QeKRldqy08juAJtbqti1oL2gzsIghY=",
+        "pic_lg": "https://media.istockphoto.com/id/1067462896/es/foto/fregadero-tina-y-ba%C3%B1o-de-madera-interior.jpg?s=612x612&w=0&k=20&c=xacI1Dgp5_AU2QeKRldqy08juAJtbqti1oL2gzsIghY=",
+        "pic_md": "https://media.istockphoto.com/id/1067462896/es/foto/fregadero-tina-y-ba%C3%B1o-de-madera-interior.jpg?s=612x612&w=0&k=20&c=xacI1Dgp5_AU2QeKRldqy08juAJtbqti1oL2gzsIghY=",
+        "pic_sm": "https://media.istockphoto.com/id/1067462896/es/foto/fregadero-tina-y-ba%C3%B1o-de-madera-interior.jpg?s=612x612&w=0&k=20&c=xacI1Dgp5_AU2QeKRldqy08juAJtbqti1oL2gzsIghY="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-3.5896, 37.1752]
+    }
+  },
+  {
+    "_id": "ObjectId_12",
+    "dev_id": 12,
+    "status_oid": "ObjectId_12",
+    "status_id": 4,
+    "status": {
+      "es": "Finalizado",
+      "en": "Finished"
+    },
+    "reference": "DEV012",
+
+    "title": {
+      "es": "Viviendas Torremolinos",
+      "en": "Torremolinos Housing"
+    },
+    "type": {
+      "es": "Pisos",
+      "en": "Apartment"
+    },
+    "town": "Torremolinos",
+    "area": "Playa",
+    "postcode": "29620",
+    "developer": {
+      "name": "Costa Inmuebles",
+      "email": ["contacto@costainmuebles.com"],
+      "phone": ["+34 900 234 567"],
+      "web": ["https://www.costainmuebles.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Reserva: 3000€</p><p>Contrato privado: 20% (menos la reserva)</p><p>Entrega: 80% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 60,
+        "max": 100
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 8,
+        "max": 15
+      }
+    },
+    "completion_date": {
+      "en": "2024 Q4",
+      "es": "4º trimestre 2024"
+    },
+    "start_date": {
+      "en": "2023 Q2",
+      "es": "2º trimestre 2023"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 120000,
+      "max": 200000
+    },
+    "beds": {
+      "min": 1,
+      "max": 2
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "36.5969",
+      "lgt": "-4.4996"
+    },
+    "descriptions": {
+      "es": "Pisos en Torremolinos, a tan solo unos minutos de la playa.",
+      "en": "Flats in Torremolinos, just minutes from the beach."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1449829836/es/foto/moderno-apartamento-house.jpg?s=612x612&w=0&k=20&c=21eJjMZLAg83sJNOcSuLcR4uM7Vzyot577wZKa5ECY0=",
+        "pic_lg": "https://media.istockphoto.com/id/1449829836/es/foto/moderno-apartamento-house.jpg?s=612x612&w=0&k=20&c=21eJjMZLAg83sJNOcSuLcR4uM7Vzyot577wZKa5ECY0=",
+        "pic_md": "https://media.istockphoto.com/id/1449829836/es/foto/moderno-apartamento-house.jpg?s=612x612&w=0&k=20&c=21eJjMZLAg83sJNOcSuLcR4uM7Vzyot577wZKa5ECY0=",
+        "pic_sm": "https://media.istockphoto.com/id/1449829836/es/foto/moderno-apartamento-house.jpg?s=612x612&w=0&k=20&c=21eJjMZLAg83sJNOcSuLcR4uM7Vzyot577wZKa5ECY0="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1411605828/es/foto/foto-moderna-y-elegante-de-archivo-de-cocina.jpg?s=612x612&w=0&k=20&c=eR9wHExiSlGAqpkNQAMeUiqMtOzzOzHDb6TFBYPzIdg=",
+        "pic_lg": "https://media.istockphoto.com/id/1411605828/es/foto/foto-moderna-y-elegante-de-archivo-de-cocina.jpg?s=612x612&w=0&k=20&c=eR9wHExiSlGAqpkNQAMeUiqMtOzzOzHDb6TFBYPzIdg=",
+        "pic_md": "https://media.istockphoto.com/id/1411605828/es/foto/foto-moderna-y-elegante-de-archivo-de-cocina.jpg?s=612x612&w=0&k=20&c=eR9wHExiSlGAqpkNQAMeUiqMtOzzOzHDb6TFBYPzIdg=",
+        "pic_sm": "https://media.istockphoto.com/id/1411605828/es/foto/foto-moderna-y-elegante-de-archivo-de-cocina.jpg?s=612x612&w=0&k=20&c=eR9wHExiSlGAqpkNQAMeUiqMtOzzOzHDb6TFBYPzIdg="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1422261518/es/foto/moderno-edificio-con-balcones-residencial.jpg?s=612x612&w=0&k=20&c=MbFgJozcjsOSWvdsJBi1Ae333iTBWzVaQWxwwlcobhY=",
+        "pic_lg": "https://media.istockphoto.com/id/1422261518/es/foto/moderno-edificio-con-balcones-residencial.jpg?s=612x612&w=0&k=20&c=MbFgJozcjsOSWvdsJBi1Ae333iTBWzVaQWxwwlcobhY=",
+        "pic_md": "https://media.istockphoto.com/id/1422261518/es/foto/moderno-edificio-con-balcones-residencial.jpg?s=612x612&w=0&k=20&c=MbFgJozcjsOSWvdsJBi1Ae333iTBWzVaQWxwwlcobhY=",
+        "pic_sm": "https://media.istockphoto.com/id/1422261518/es/foto/moderno-edificio-con-balcones-residencial.jpg?s=612x612&w=0&k=20&c=MbFgJozcjsOSWvdsJBi1Ae333iTBWzVaQWxwwlcobhY="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1304534538/es/foto/moderno-ba%C3%B1o-blanco-con-lavabo-y-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=lhZlOY3jdn3MhQ6gl9NJwQNWkCjYgzoL56LMcmjHcXY=",
+        "pic_lg": "https://media.istockphoto.com/id/1304534538/es/foto/moderno-ba%C3%B1o-blanco-con-lavabo-y-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=lhZlOY3jdn3MhQ6gl9NJwQNWkCjYgzoL56LMcmjHcXY=",
+        "pic_md": "https://media.istockphoto.com/id/1304534538/es/foto/moderno-ba%C3%B1o-blanco-con-lavabo-y-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=lhZlOY3jdn3MhQ6gl9NJwQNWkCjYgzoL56LMcmjHcXY=",
+        "pic_sm": "https://media.istockphoto.com/id/1304534538/es/foto/moderno-ba%C3%B1o-blanco-con-lavabo-y-ba%C3%B1era.jpg?s=612x612&w=0&k=20&c=lhZlOY3jdn3MhQ6gl9NJwQNWkCjYgzoL56LMcmjHcXY="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-4.4996, 36.5969]
+    }
+  },
+  {
+    "_id": "ObjectId_13",
+    "dev_id": 13,
+    "status_oid": "ObjectId_13",
+    "status_id": 1,
+    "status": {
+      "es": "Próximamente",
+      "en": "Coming soon"
+    },
+    "reference": "DEV013",
+
+    "title": {
+      "es": "Residencial Málaga Sur",
+      "en": "Málaga Sur Residential"
+    },
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Málaga",
+    "area": "Centro Histórico",
+    "postcode": "29015",
+    "developer": {
+      "name": "Málaga Homes",
+      "email": ["contacto@malahomes.com"],
+      "phone": ["+34 900 555 555"],
+      "web": ["https://www.malahomes.com/proyecto"],
+      "comm": "5%",
+      "notes": "<p>Reserva: 4000€</p><p>Contrato privado: 30% (menos la reserva)</p><p>Entrega: 70% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 80,
+        "max": 150
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 10,
+        "max": 30
+      }
+    },
+    "completion_date": {
+      "en": "2026 Q4",
+      "es": "4º trimestre 2026"
+    },
+    "start_date": {
+      "en": "2025 Q1",
+      "es": "1º trimestre 2025"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 230000,
+      "max": 450000
+    },
+    "beds": {
+      "min": 2,
+      "max": 4
+    },
+    "baths": {
+      "min": 2,
+      "max": 3
+    },
+    "map": {
+      "lat": "36.7213",
+      "lgt": "-4.4214"
+    },
+    "descriptions": {
+      "es": "Viviendas modernas en el centro histórico de Málaga, cerca de la playa.",
+      "en": "Modern homes in the historic center of Málaga, close to the beach."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1246129930/es/foto/hotel-blanco-moderno-de-lujo-con-piscina-tumbona-en-terraza-para-la-casa-de-vacaciones-u-hotel.jpg?s=612x612&w=0&k=20&c=W8ET4OlmjahIiJKL15aZAScbWfxHU1cE2tPSDiGF_eE=",
+        "pic_lg": "https://media.istockphoto.com/id/1246129930/es/foto/hotel-blanco-moderno-de-lujo-con-piscina-tumbona-en-terraza-para-la-casa-de-vacaciones-u-hotel.jpg?s=612x612&w=0&k=20&c=W8ET4OlmjahIiJKL15aZAScbWfxHU1cE2tPSDiGF_eE=",
+        "pic_md": "https://media.istockphoto.com/id/1246129930/es/foto/hotel-blanco-moderno-de-lujo-con-piscina-tumbona-en-terraza-para-la-casa-de-vacaciones-u-hotel.jpg?s=612x612&w=0&k=20&c=W8ET4OlmjahIiJKL15aZAScbWfxHU1cE2tPSDiGF_eE=",
+        "pic_sm": "https://media.istockphoto.com/id/1246129930/es/foto/hotel-blanco-moderno-de-lujo-con-piscina-tumbona-en-terraza-para-la-casa-de-vacaciones-u-hotel.jpg?s=612x612&w=0&k=20&c=W8ET4OlmjahIiJKL15aZAScbWfxHU1cE2tPSDiGF_eE="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/934123538/es/foto/3d-rendering-hermosa-cocina-blanca-y-comedor.jpg?s=612x612&w=0&k=20&c=grR9Jcrsh_gEybrfDYBuAYYCYdgGyDkQRe3QsN9Qor4=",
+        "pic_lg": "https://media.istockphoto.com/id/934123538/es/foto/3d-rendering-hermosa-cocina-blanca-y-comedor.jpg?s=612x612&w=0&k=20&c=grR9Jcrsh_gEybrfDYBuAYYCYdgGyDkQRe3QsN9Qor4=",
+        "pic_md": "https://media.istockphoto.com/id/934123538/es/foto/3d-rendering-hermosa-cocina-blanca-y-comedor.jpg?s=612x612&w=0&k=20&c=grR9Jcrsh_gEybrfDYBuAYYCYdgGyDkQRe3QsN9Qor4=",
+        "pic_sm": "https://media.istockphoto.com/id/934123538/es/foto/3d-rendering-hermosa-cocina-blanca-y-comedor.jpg?s=612x612&w=0&k=20&c=grR9Jcrsh_gEybrfDYBuAYYCYdgGyDkQRe3QsN9Qor4="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/1268244623/es/foto/corredor-moderno-con-puerta-de-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=RD0TQV_y740EtqCUedk_99E5c8l499_-Lik74xkBoIg=",
+        "pic_lg": "https://media.istockphoto.com/id/1268244623/es/foto/corredor-moderno-con-puerta-de-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=RD0TQV_y740EtqCUedk_99E5c8l499_-Lik74xkBoIg=",
+        "pic_md": "https://media.istockphoto.com/id/1268244623/es/foto/corredor-moderno-con-puerta-de-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=RD0TQV_y740EtqCUedk_99E5c8l499_-Lik74xkBoIg=",
+        "pic_sm": "https://media.istockphoto.com/id/1268244623/es/foto/corredor-moderno-con-puerta-de-balc%C3%B3n.jpg?s=612x612&w=0&k=20&c=RD0TQV_y740EtqCUedk_99E5c8l499_-Lik74xkBoIg="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1369933289/es/foto/elegante-dise%C3%B1o-interior-de-ba%C3%B1o-con-paneles-de-m%C3%A1rmol-ba%C3%B1era-toallas-y-otros-accesorios.jpg?s=612x612&w=0&k=20&c=RhDwT4_mEHY3nRPT1ARg1PYZO00lv9rs___c0GTJXa0=",
+        "pic_lg": "https://media.istockphoto.com/id/1369933289/es/foto/elegante-dise%C3%B1o-interior-de-ba%C3%B1o-con-paneles-de-m%C3%A1rmol-ba%C3%B1era-toallas-y-otros-accesorios.jpg?s=612x612&w=0&k=20&c=RhDwT4_mEHY3nRPT1ARg1PYZO00lv9rs___c0GTJXa0=",
+        "pic_md": "https://media.istockphoto.com/id/1369933289/es/foto/elegante-dise%C3%B1o-interior-de-ba%C3%B1o-con-paneles-de-m%C3%A1rmol-ba%C3%B1era-toallas-y-otros-accesorios.jpg?s=612x612&w=0&k=20&c=RhDwT4_mEHY3nRPT1ARg1PYZO00lv9rs___c0GTJXa0=",
+        "pic_sm": "https://media.istockphoto.com/id/1369933289/es/foto/elegante-dise%C3%B1o-interior-de-ba%C3%B1o-con-paneles-de-m%C3%A1rmol-ba%C3%B1era-toallas-y-otros-accesorios.jpg?s=612x612&w=0&k=20&c=RhDwT4_mEHY3nRPT1ARg1PYZO00lv9rs___c0GTJXa0="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-4.4214, 36.7213]
+    }
+  },
+  {
+    "_id": "ObjectId_14",
+    "dev_id": 14,
+    "status_oid": "ObjectId_14",
+    "status_id": 3,
+    "status": {
+      "es": "Con licencia",
+      "en": "With license"
+    },
+    "reference": "DEV014",
+    "type": {
+      "es": "Chalets",
+      "en": "House"
+    },
+    "town": "Marbella",
+    "area": "La Milla de Oro",
+    "postcode": "29660",
+    "developer": {
+      "name": "Marbella Inmobiliaria",
+      "email": ["info@marbellainmobiliaria.com"],
+      "phone": ["+34 900 111 222"],
+      "web": ["https://www.marbellainmobiliaria.com/proyecto"],
+      "comm": "6%",
+      "notes": "<p>Reserva: 10000€</p><p>Contrato privado: 40% (menos la reserva)</p><p>Entrega: 60% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 300,
+        "max": 600
+      },
+      "plot_area": {
+        "min": 1000,
+        "max": 2000
+      },
+      "covered_terrace": {
+        "min": 50,
+        "max": 150
+      }
+    },
+    "completion_date": {
+      "en": "2028 Q1",
+      "es": "1º trimestre 2028"
+    },
+    "start_date": {
+      "en": "2026 Q2",
+      "es": "2º trimestre 2026"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 1500000,
+      "max": 2500000
+    },
+    "beds": {
+      "min": 4,
+      "max": 6
+    },
+    "baths": {
+      "min": 4,
+      "max": 6
+    },
+    "map": {
+      "lat": "36.5101",
+      "lgt": "-4.9520"
+    },
+    "descriptions": {
+      "es": "Exclusiva urbanización de chalets de lujo en la Milla de Oro de Marbella.",
+      "en": "Exclusive luxury villa development in Marbella's Golden Mile."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/1347239531/es/foto/representaci%C3%B3n-3d-de-casa-moderna-en-estilo-lujoso-junto-al-mar-o-al-oc%C3%A9ano.jpg?s=612x612&w=0&k=20&c=aiNHlrFhmkm3K85bLHI-HSMExeW0M7N4Mei-AI4-M2A=",
+        "pic_lg": "https://media.istockphoto.com/id/1347239531/es/foto/representaci%C3%B3n-3d-de-casa-moderna-en-estilo-lujoso-junto-al-mar-o-al-oc%C3%A9ano.jpg?s=612x612&w=0&k=20&c=aiNHlrFhmkm3K85bLHI-HSMExeW0M7N4Mei-AI4-M2A=",
+        "pic_md": "https://media.istockphoto.com/id/1347239531/es/foto/representaci%C3%B3n-3d-de-casa-moderna-en-estilo-lujoso-junto-al-mar-o-al-oc%C3%A9ano.jpg?s=612x612&w=0&k=20&c=aiNHlrFhmkm3K85bLHI-HSMExeW0M7N4Mei-AI4-M2A=",
+        "pic_sm": "https://media.istockphoto.com/id/1347239531/es/foto/representaci%C3%B3n-3d-de-casa-moderna-en-estilo-lujoso-junto-al-mar-o-al-oc%C3%A9ano.jpg?s=612x612&w=0&k=20&c=aiNHlrFhmkm3K85bLHI-HSMExeW0M7N4Mei-AI4-M2A="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/916117826/es/foto/blanca-apartamento-con-piso-de-madera.jpg?s=612x612&w=0&k=20&c=Zcw0ZC7mrV3P12fvZfgWeXYqADM8r5FbbZNZSh3w38o=",
+        "pic_lg": "https://media.istockphoto.com/id/916117826/es/foto/blanca-apartamento-con-piso-de-madera.jpg?s=612x612&w=0&k=20&c=Zcw0ZC7mrV3P12fvZfgWeXYqADM8r5FbbZNZSh3w38o=",
+        "pic_md": "https://media.istockphoto.com/id/916117826/es/foto/blanca-apartamento-con-piso-de-madera.jpg?s=612x612&w=0&k=20&c=Zcw0ZC7mrV3P12fvZfgWeXYqADM8r5FbbZNZSh3w38o=",
+        "pic_sm": "https://media.istockphoto.com/id/916117826/es/foto/blanca-apartamento-con-piso-de-madera.jpg?s=612x612&w=0&k=20&c=Zcw0ZC7mrV3P12fvZfgWeXYqADM8r5FbbZNZSh3w38o="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/609947156/es/foto/casa-moderna-con-piscina.jpg?s=612x612&w=0&k=20&c=Zz-xZe1PSwMqc5_9cLYdGdutxFw7jOh9qktBKX96BXo=",
+        "pic_lg": "https://media.istockphoto.com/id/609947156/es/foto/casa-moderna-con-piscina.jpg?s=612x612&w=0&k=20&c=Zz-xZe1PSwMqc5_9cLYdGdutxFw7jOh9qktBKX96BXo=",
+        "pic_md": "https://media.istockphoto.com/id/609947156/es/foto/casa-moderna-con-piscina.jpg?s=612x612&w=0&k=20&c=Zz-xZe1PSwMqc5_9cLYdGdutxFw7jOh9qktBKX96BXo=",
+        "pic_sm": "https://media.istockphoto.com/id/609947156/es/foto/casa-moderna-con-piscina.jpg?s=612x612&w=0&k=20&c=Zz-xZe1PSwMqc5_9cLYdGdutxFw7jOh9qktBKX96BXo="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/2165202823/es/foto/acogedor-ba%C3%B1o-interior-del-hotel-con-ba%C3%B1era-lavabo-y-accesorios-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=vfCl5nvvJ3rfXsFNcBhI2J2ujWGnjggFWVDRc8C1VFY=",
+        "pic_lg": "https://media.istockphoto.com/id/2165202823/es/foto/acogedor-ba%C3%B1o-interior-del-hotel-con-ba%C3%B1era-lavabo-y-accesorios-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=vfCl5nvvJ3rfXsFNcBhI2J2ujWGnjggFWVDRc8C1VFY=",
+        "pic_md": "https://media.istockphoto.com/id/2165202823/es/foto/acogedor-ba%C3%B1o-interior-del-hotel-con-ba%C3%B1era-lavabo-y-accesorios-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=vfCl5nvvJ3rfXsFNcBhI2J2ujWGnjggFWVDRc8C1VFY=",
+        "pic_sm": "https://media.istockphoto.com/id/2165202823/es/foto/acogedor-ba%C3%B1o-interior-del-hotel-con-ba%C3%B1era-lavabo-y-accesorios-ventana-panor%C3%A1mica.jpg?s=612x612&w=0&k=20&c=vfCl5nvvJ3rfXsFNcBhI2J2ujWGnjggFWVDRc8C1VFY="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [-4.952, 36.5101]
+    }
+  },
+  {
+    "_id": "ObjectId_15",
+    "dev_id": 15,
+    "status_oid": "ObjectId_15",
+    "status_id": 4,
+    "status": {
+      "es": "Finalizado",
+      "en": "Finished"
+    },
+    "reference": "DEV015",
+
+    "title": {
+      "es": "Viviendas Costa Brava",
+      "en": "Costa Brava Properties"
+    },
+    "type": {
+      "es": "Apartamentos",
+      "en": "Flat"
+    },
+    "town": "Girona",
+    "area": "Costa Brava",
+    "postcode": "17200",
+    "developer": {
+      "name": "Costa Brava Inmobiliaria",
+      "email": ["contacto@costabravainmobiliaria.com"],
+      "phone": ["+34 900 678 901"],
+      "web": ["https://www.costabravainmobiliaria.com/proyecto"],
+      "comm": "4%",
+      "notes": "<p>Reserva: 3000€</p><p>Contrato privado: 25% (menos la reserva)</p><p>Entrega: 75% restante + IVA</p>"
+    },
+    "areas": {
+      "built_area": {
+        "min": 70,
+        "max": 130
+      },
+      "plot_area": {
+        "min": 0,
+        "max": 0
+      },
+      "covered_terrace": {
+        "min": 10,
+        "max": 20
+      }
+    },
+    "completion_date": {
+      "en": "2025 Q2",
+      "es": "2º trimestre 2025"
+    },
+    "start_date": {
+      "en": "2024 Q4",
+      "es": "4º trimestre 2024"
+    },
+    "price_title": {
+      "en": "From",
+      "es": "Desde"
+    },
+    "price": {
+      "min": 180000,
+      "max": 300000
+    },
+    "beds": {
+      "min": 1,
+      "max": 3
+    },
+    "baths": {
+      "min": 1,
+      "max": 2
+    },
+    "map": {
+      "lat": "41.9794",
+      "lgt": "3.2074"
+    },
+    "descriptions": {
+      "es": "Apartamentos en la Costa Brava, cerca de la playa y el mar.",
+      "en": "Flats on the Costa Brava, near the beach and the sea."
+    },
+    "pictures": [
+      {
+        "pic_id": 1,
+        "pic": "https://media.istockphoto.com/id/491352470/es/foto/nuevo-apartments.jpg?s=612x612&w=0&k=20&c=0TNR_hUTf6YJ18fA_tcFYgr8gPWGrxZ1rStZSONmwXs=",
+        "pic_lg": "https://media.istockphoto.com/id/491352470/es/foto/nuevo-apartments.jpg?s=612x612&w=0&k=20&c=0TNR_hUTf6YJ18fA_tcFYgr8gPWGrxZ1rStZSONmwXs=",
+        "pic_md": "https://media.istockphoto.com/id/491352470/es/foto/nuevo-apartments.jpg?s=612x612&w=0&k=20&c=0TNR_hUTf6YJ18fA_tcFYgr8gPWGrxZ1rStZSONmwXs=",
+        "pic_sm": "https://media.istockphoto.com/id/491352470/es/foto/nuevo-apartments.jpg?s=612x612&w=0&k=20&c=0TNR_hUTf6YJ18fA_tcFYgr8gPWGrxZ1rStZSONmwXs="
+      },
+      {
+        "pic_id": 2,
+        "pic": "https://media.istockphoto.com/id/1087357752/es/foto/interior-de-la-elegante-cocina-con-modernos-gabinetes-en-nuevo-hogar-dise%C3%B1o-en-estilo.jpg?s=612x612&w=0&k=20&c=wmBQJNzQiNDx-_7p5BeFexxsUFE4nWjLO4J-aNwJApI=",
+        "pic_lg": "https://media.istockphoto.com/id/1087357752/es/foto/interior-de-la-elegante-cocina-con-modernos-gabinetes-en-nuevo-hogar-dise%C3%B1o-en-estilo.jpg?s=612x612&w=0&k=20&c=wmBQJNzQiNDx-_7p5BeFexxsUFE4nWjLO4J-aNwJApI=",
+        "pic_md": "https://media.istockphoto.com/id/1087357752/es/foto/interior-de-la-elegante-cocina-con-modernos-gabinetes-en-nuevo-hogar-dise%C3%B1o-en-estilo.jpg?s=612x612&w=0&k=20&c=wmBQJNzQiNDx-_7p5BeFexxsUFE4nWjLO4J-aNwJApI=",
+        "pic_sm": "https://media.istockphoto.com/id/1087357752/es/foto/interior-de-la-elegante-cocina-con-modernos-gabinetes-en-nuevo-hogar-dise%C3%B1o-en-estilo.jpg?s=612x612&w=0&k=20&c=wmBQJNzQiNDx-_7p5BeFexxsUFE4nWjLO4J-aNwJApI="
+      },
+      {
+        "pic_id": 3,
+        "pic": "https://media.istockphoto.com/id/540363780/es/foto/patio-y-muebles-c%C3%B3modos-de.jpg?s=612x612&w=0&k=20&c=57ySYx1cU433WUt8p0IQfi-ZeNzyFs1XNUWl0UoObPw=",
+        "pic_lg": "https://media.istockphoto.com/id/540363780/es/foto/patio-y-muebles-c%C3%B3modos-de.jpg?s=612x612&w=0&k=20&c=57ySYx1cU433WUt8p0IQfi-ZeNzyFs1XNUWl0UoObPw=",
+        "pic_md": "https://media.istockphoto.com/id/540363780/es/foto/patio-y-muebles-c%C3%B3modos-de.jpg?s=612x612&w=0&k=20&c=57ySYx1cU433WUt8p0IQfi-ZeNzyFs1XNUWl0UoObPw=",
+        "pic_sm": "https://media.istockphoto.com/id/540363780/es/foto/patio-y-muebles-c%C3%B3modos-de.jpg?s=612x612&w=0&k=20&c=57ySYx1cU433WUt8p0IQfi-ZeNzyFs1XNUWl0UoObPw="
+      },
+      {
+        "pic_id": 4,
+        "pic": "https://media.istockphoto.com/id/1277518969/es/foto/exclusivo-ba%C3%B1o-en-el-%C3%A1tico.jpg?s=612x612&w=0&k=20&c=XvIWrGOgPKv9_JribC1B8CtoqkcUtu0A9peMmH3PIms=",
+        "pic_lg": "https://media.istockphoto.com/id/1277518969/es/foto/exclusivo-ba%C3%B1o-en-el-%C3%A1tico.jpg?s=612x612&w=0&k=20&c=XvIWrGOgPKv9_JribC1B8CtoqkcUtu0A9peMmH3PIms=",
+        "pic_md": "https://media.istockphoto.com/id/1277518969/es/foto/exclusivo-ba%C3%B1o-en-el-%C3%A1tico.jpg?s=612x612&w=0&k=20&c=XvIWrGOgPKv9_JribC1B8CtoqkcUtu0A9peMmH3PIms=",
+        "pic_sm": "https://media.istockphoto.com/id/1277518969/es/foto/exclusivo-ba%C3%B1o-en-el-%C3%A1tico.jpg?s=612x612&w=0&k=20&c=XvIWrGOgPKv9_JribC1B8CtoqkcUtu0A9peMmH3PIms="
+      }
+    ],
+    "documents": [
+      {
+        "doc_id": 1,
+        "name": "Memoria de Calidades",
+        "url": "https://example.com/docs/quality-specifications.pdf"
+      },
+      {
+        "doc_id": 2,
+        "name": "Planos",
+        "url": "https://example.com/docs/plans.zip"
+      },
+      {
+        "doc_id": 3,
+        "name": "Plan Maestro",
+        "url": "https://example.com/docs/masterplan.pdf"
+      }
+    ],
+    "creation_date": "2023-01-01T00:00:00.000Z",
+    "last_update": "2025-01-01T00:00:00.000Z",
+    "visible": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [3.2074, 41.9794]
+    }
+  }
+]

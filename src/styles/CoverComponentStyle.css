@@ -1,0 +1,127 @@
+.front-content,
+.back-content {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+/* portada/////////////////////////////////////////////// */
+.cover-main-section {
+  height: 100%;
+  padding-top: 5%;
+  padding-left: 10%;
+  position: relative;
+  overflow: hidden;
+  perspective: 1500px;
+}
+.cover-logo-container {
+  max-width: 2em;
+  min-width: 20%;
+  width: 30%;
+  min-height: 6em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icono-text-cover-back {
+  max-width: 6em;
+  margin-bottom: 5%;
+  font-family: "PT Caption";
+  align-self: center;
+}
+.icono-text-cover {
+  max-width: 8em;
+  margin-bottom: 13%;
+  font-family: "PT Caption";
+  font-size: 0.9em;
+}
+.cover-title-container {
+  width: 100%;
+  height: 20%;
+}
+.cover-title-container .title1 {
+  font-size: 1.3em;
+  font-family: 'PT Caption';
+}
+.cover-title-container .title2 {
+  font-size: 2.3em;
+  font-family: "PT Serif B";
+  /* border-radius: 3px 0 0 3px;
+  border-width: 0 0 0.4em 0; */
+}
+.cover-block-title {
+}
+.cover-img-container {
+  position: absolute;
+  bottom: 0;
+  height: 48%;
+  overflow: hidden;
+}
+.cover-img-container img {
+  display: block;
+  border-radius: 3px 0 0 0;
+  object-fit: cover;
+  object-position: 20%;
+  /* object-position: -150px; */
+  /* elimina el espacio debajo */
+  /* anulamos el counter-reset */
+  max-width: none;
+  width: 100%;
+  height: 100%;
+}
+.cover-block-container {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  /* background-color: #3d649b; */
+  z-index: -1;
+  bottom: 0px;
+  left: 0px;
+}
+
+/* contraportada////////////////////////////////////////////////////////////////////////////// */
+
+.backcover-main-section {
+  /* ajuste con la pagina */
+  width: 90%;
+  height: 93%;
+  /* chungi */
+  margin: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.backcover-info-container {
+  background-color: white;
+  width: 55%;
+  padding: 5%;
+  /* border: solid 0.05em #0c0c0c; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 3px;
+}
+.backcover {
+  background-image: url('\imagenContraportada.jpg');
+  background-size: cover;
+  background-position: 50%;
+}
+.back-cover-logo {
+    width: 50%;
+    align-self: center;
+    padding-bottom: 5%;
+    max-width: 3em;
+
+}
+.backcover-info-container p {
+  font-size: 0.6em;
+  line-height: 3em;
+  font-family: 'PT Caption';
+}
+@media (max-width: 480px) {
+  .cover-img-container img {
+    object-position: 20%;
+  }
+}

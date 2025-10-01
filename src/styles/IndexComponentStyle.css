@@ -1,0 +1,50 @@
+.index-section {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+.index-title {
+  margin-top: 5%;
+  margin-left: 5%;
+  /* border: solid 1px #3d649b; */
+  padding: 2%;
+  border-right: none;
+  border-radius: 3px;
+  font-size: 1.4em;
+  font-family: "PT Caption";
+}
+.index-bar {
+  height: 110%;
+  width: 10%;
+  /* background: #3d649b; */
+  /* background: linear-gradient(180deg,#3d649b 0%, rgba(255, 255, 255, 1) 100%); */
+  position: absolute;
+  top: -10%;
+  left: 90%;
+}
+.index-all-elements {
+  margin: 5% 15% 5% 7%;
+  height: 78%;
+  overflow: hidden;
+  column-count: 4;
+  column-fill: auto;
+  font-family: "PT Serif R";
+}
+.index-all-elements h3 {
+  font-size: 0.5em;
+  padding-bottom: 0.2em;
+}
+.prop-ul {
+}
+.prop-name {
+  font-size: 0.32em;
+  padding-bottom: 0.32em;
+}
+.zone-container {
+  padding-bottom: 0.2em;
+}
+@media (min-width: 1024px) {
+  #book-visualizer-container:fullscreen .prop-name {
+    font-size: 0.32em;
+  }
+}

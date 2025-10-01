@@ -1,0 +1,180 @@
+/* ///////////////////////////////////////////////
+En este archivo se estila lo fundamental para el funcionamiento y estructura del FlippedBook
+//////////////////////////////////////////////////*/
+.book-box-container {
+  background: black;
+  margin: auto;
+}
+#book-visualizer-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(36, 36, 36);
+  overflow: hidden;
+  aspect-ratio: 2 / 1.2;
+  font-size: 19px;
+  max-height: 100vh;
+  margin: auto;
+}
+/* Book */
+.book {
+  position: relative;
+  transition: transform 0.5s;
+  /* /////responsive */
+  width: 40%;
+  aspect-ratio: 1 / 1.4142; /* Proporción A4 */
+  max-width: 700px; /* Ajustable según tu diseño */
+  height: auto;
+}
+.paper {
+  /* añadimos absolute para que las hojas se posiciones unas sobre otras */
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  /* flipped effect////////////////////////////////////////////////////////////////////////// */
+  perspective: 3000px;
+  /* font-size: 19px; */
+}
+.front,
+.back {
+  background-color: white;
+  /* añadimos absolute para que front page este encima de back page, pero tambien tenemos que modificar el z intex */
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  perspective: 1500px;
+  /* fliped effect ///////////////////////////////////////////////////////////////////*/
+  transform-origin: left;
+  transition: transform 0.6s;
+  /* Sombra interior */
+  box-shadow: inset 5px 0 10px rgba(0, 0, 0, 0.1);
+}
+.front {
+  /* colocamos el front delante del back */
+  z-index: 1;
+  /* //////hace invisible el front cuando se voltea la pagina */
+  backface-visibility: hidden;
+}
+.back {
+  z-index: 0;
+}
+.front-content,
+.back-content {
+  /* ESTILAMOS EN EL PROPIO COMPONENTE */
+}
+.back-content {
+  /* /////// voltea el contenido para contrarrestar el volteo que se le dio a la pagina */
+  transform: rotateY(180deg);
+}
+/* paper flipped effect ////////////////////////////////////////////////////////////////// */
+.flipped .front,
+.flipped .back {
+  transform: rotateY(-180deg);
+}
+.buttons {
+  width: 4em;
+  height: 9%;
+  position: absolute;
+  color: rgb(90 87 87);
+  /* transition: transform 0.5s; */
+}
+.download-button {
+  border: none;
+  color: #ccc;
+  background-color: black;
+}
+#prev-btn {
+  left: 1em;
+  /* top: 50%; */
+}
+#next-btn {
+  right: 1em;
+  /* top: 50%; */
+}
+/* //Sombra al doblar */
+@keyframes turnShadow {
+  0% {
+    box-shadow: 0 0 0 transparent;
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+  100% {
+    box-shadow: 0 0 0 transparent;
+  }
+}
+.paper.is-turning {
+  animation: turnShadow 1.5s ease;
+}
+/* CONTRAPORTADA///////////////////////////////// */
+.icono-text-cover {
+  max-width: 6em;
+  margin-bottom: 13%;
+  font-family: "PT Caption";
+}
+#book-visualizer-container:fullscreen .paper {
+  font-size: 22px;
+}
+/* OPTIONS BAR ////////////////////////// */
+.options-bar {
+  height: 2em;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  padding: 2em 2em;
+}
+
+.expand {
+  color: #5a5757;
+  height: 1.5em;
+}
+
+/* ultima pagina/////////////////// */
+.background-backcover {
+  background-image: url("\imagenContraportada.png");
+  background-size: cover;
+  background-position: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 480px) {
+  #book-visualizer-container {
+    font-size: 5.5px;
+  }
+  #book-visualizer-container:fullscreen .paper {
+    font-size: 9px;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  #book-visualizer-container {
+    font-size: 9px;
+  }
+  #book-visualizer-container:fullscreen .paper {
+    font-size: 10px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  #book-visualizer-container {
+    font-size: 13px;
+  }
+  #book-visualizer-container:fullscreen .paper {
+    font-size: 18px;
+  }
+}
+@media (min-width: 1024px) {
+    #book-visualizer-container {
+    font-size: 23px;
+  }
+  #book-visualizer-container:fullscreen .paper {
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,119 @@
+.property-section {
+  height: 42%;
+  position: relative;
+  overflow: hidden;
+  margin: 6% 0 6% 0;
+  font-family: "PT Serif R";
+  /* border: solid gray 1px; */
+}
+.property-image.first {
+  overflow: hidden;
+  width: 45%;
+  height: 95%;
+  margin-top: 3%;
+  border-radius: 0 4px 4px 0;
+}
+.property-image img {
+  object-fit: cover;
+  /* elimina el espacio debajo */
+  /* anulamos el counter-reset */
+  max-width: none;
+  width: 100%;
+  height: 100%;
+}
+.property-image-bg {
+  /* background-color: #3d649b; */
+  width: 48%;
+  height: 95%;
+  z-index: -2;
+  position: absolute;
+  border-radius: 0 4px 4px 0;
+}
+.property-info {
+  overflow: hidden;
+  height: 100%;
+  padding: 0 2% 2% 2%;
+  width: 50%;
+  /* border: solid gray 1px; */
+}
+.property-info.first {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+
+.property-info-data {
+  margin: 0 10% 2% 5%;
+}
+.property-info-data h3 {
+  font-size: 0.7em;
+  padding-top: 1%;
+  line-height: 1.1em;
+  min-height: 2.5em;
+}
+.info-data-elements {
+  font-size: 0.5em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding-left: 5%;
+  padding-bottom: 3%;
+  gap: 10%;
+  min-height: 2em;
+}
+.bed {
+  width: 8%;
+}
+.adjust-size-bed {
+  gap: 8%;
+}
+.euro {
+  width: 8%;
+}
+.adjust-size-euro {
+  gap: 9%;
+  padding-left: 3%;
+}
+/* //////SECOND/////// */
+.property-section.second {
+  /* margin-top: 7%; */
+}
+.property-image.second {
+  width: 45%;
+  height: 95%;
+  margin-top: 3%;
+  position: absolute;
+  left: 55%;
+  border-radius: 4px 0 0 4px;
+}
+.property-image-bg.second {
+  position: absolute;
+  left: 52%;
+  border-radius: 4px 0 0 4px;
+}
+/* //Info de la agencia */
+
+.lastpage-info-container {
+  background-color: white;
+  padding: 5%;
+  border-width: 0.01em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 3px;
+  width: 60%;
+  margin: 10% auto;
+  font-size: 0.6em;
+  line-height: 3em;
+}
+.lastpage-info-text {
+  font-size: 0.6em;
+  line-height: 3em;
+  font-family: "PT Caption";
+}
+.lastpage-logo {
+  width: 40%;
+  max-width: 4em;
+  align-self: center;
+}

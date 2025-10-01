@@ -1,0 +1,53 @@
+.page-number {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  bottom: 1%;
+}
+.line {
+  width: 45%;
+  height: 0.05em;
+}
+.left{
+    margin: 3% 7% 3% 3%;
+}
+.right{
+    margin: 3% 3% 3% 7%;
+}
+.page-number p {
+    font-size: 0.5em;
+    margin-top: 0.9%;
+}
+#book-visualizer-container:fullscreen .page-number p {
+  font-size: 1em;
+}
+@media (max-width: 480px){
+  /* .page-number{
+  font-size: 7px;
+} */
+#book-visualizer-container:fullscreen .paper-number{
+    font-size: 9px;
+}
+}
+@media (min-width: 481px) and (max-width: 767px){
+  /* .page-number{
+  font-size: 8px;
+} */
+#book-visualizer-container:fullscreen .page-number{
+    font-size: 9px;
+}
+}
+@media (min-width: 768px)and (max-width: 1023px){
+/* .page-number{
+  font-size: 11px;
+} */
+#book-visualizer-container:fullscreen .page-number{
+    font-size: 11px;
+}
+}
+@media (min-width: 1024px){
+  #book-visualizer-container:fullscreen .page-number{
+    font-size: 14px;
+}
+}

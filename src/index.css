@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background-color: #1bb394ff; /* Verde pastel global */
+  height: 100%;
+  font-size: 100%;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+@font-face {
+  font-family: 'PT Serif B';
+  src: url(\fonts\PTSerif-Bold.ttf);
+}
+@font-face {
+  font-family: 'PT Serif R';
+  src: url(\fonts\PTSerif-Regular.ttf);
+}
+@font-face {
+  font-family: 'PT Caption';
+  src: url(\fonts\PTSerifCaption-Regular.ttf);
+}

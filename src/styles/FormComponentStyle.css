@@ -1,0 +1,23 @@
+/* Este archivo contiene los estilos del FormComponent más los estilos comunes de inputs, label, fielset y otros elementos del los componentes que formulario */
+
+.fieldset {
+  padding: 1em;
+  margin: 1em;
+}
+.legend {
+  padding: 0 1em;
+}
+.label-text {
+  padding-right: 1em;
+}
+.check-box-input {
+  appearance: none;
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: 1em;
+
+  border-radius: 10%;
+}
+.check-box-input:checked {
+  background-color: green;
+}

@@ -1,0 +1,21 @@
+/* Elemento de entrada de datos para elegir color */
+.color-input {
+  margin-right: 1em;
+  background: none;
+  padding: 0;
+  border: 0;
+}
+/* Contenedor externo del color elegido */
+.color-input::-webkit-color-swatch-wrapper {
+    padding: 0;
+    width: 1.5em;
+    height: 1.5em;
+    border: 0;
+    background-color: none;
+  }
+  /* Contenedor interno del color elegido */
+  .color-input::-webkit-color-swatch {
+    border: 3px solid #333;
+    border-radius: 50%;
+  }
+

@@ -1,0 +1,47 @@
+.lastpage-info-container {
+  background-color: white;
+  padding: 5%;
+  border-width: 0.01em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 3px;
+  width: 60%;
+  margin: 10% auto;
+}
+.lastpage-info-container p {
+  font-size: 0.6em;
+  line-height: 3em;
+  font-family: "PT Caption";
+}
+.lastpage-logo {
+  width: 40%;
+  align-self: center;
+}
+.back-cover-image-container {
+  display: flex;
+  width: 35%;
+  background-color: white;
+  height: 25%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2%;
+}
+.back-cover-icono-text {
+  font-size: 0.9em;
+  font-family: "PT Caption";
+  background-color: white;
+  width: 35%;
+  height: 25%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.back-cover-image-container > img {
+  max-width: 90%;
+  height: auto;
+  justify-self: center;
+  padding: 10%;
+}
